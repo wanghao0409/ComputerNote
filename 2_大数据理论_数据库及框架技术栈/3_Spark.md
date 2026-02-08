@@ -1,0 +1,232 @@
+# SPARK
+
+# 一、定义与理解
+
+Spark**是一个<u>基于内存的</u>**、**<u>分布式的</u>**、**用于<u>大规模数据处理</u>**的统一分析引擎
+
+- **基于内存**：核心优势，计算中间结果可以放在内存中，避免了像MapReduce那样频繁读写磁盘，因此速度极快（官方称比Hadoop MapReduce快100倍）。
+
+- **分布式**：数据和处理能力可以分布在成百上千台机器上。
+
+- **统一分析引擎**：**这是Spark最强大的地方！** 它可以用一个技术栈解决批处理、交互式查询、实时流处理、机器学习和图计算等多种任务。
+
+  
+
+Spark Core API
+
+Spark SQL
+
+Struct Streaming
+
+Spark ML lib
+
+# 二、程序运行架构
+
+
+
+| 组件                | 作用                                                         |
+| ------------------- | ------------------------------------------------------------ |
+| **Driver Program**  | 用户编写的主程序，定义 RDD 变换和动作，启动 Spark 应用。     |
+| **Cluster Manager** | 资源调度器，如 Standalone、YARN、Kubernetes。                |
+| **Executor**        | 运行在工作节点（Worker）上的进程，负责执行具体的任务（Task），并存储数据缓存。 |
+| **Task**            | 最小执行单元，每个任务处理一个数据分区。                     |
+
+
+
+#### Spark 应用执行流程
+
+**描述 Spark 作业的执行流程（从代码到任务执行）。**
+
+1. **代码编写**：用户编写 Spark 应用程序，包含 Transformations 和 Actions
+2. **DAG 构建**：当调用 Action 时，Spark 根据 RDD 依赖关系构建 DAG
+3. **DAG 调度**：DAGScheduler 将 DAG 划分为多个 Stage（基于宽依赖）
+4. **任务调度**：TaskScheduler 将每个 Stage 的任务集提交给 Cluster Manager
+5. **任务执行**：Executor 在 Worker 节点上执行具体任务
+6. **结果返回**：最终结果返回给 Driver 程序或写入外部存储
+
+
+
+# 三、RDD 弹性分布式数据集
+
+## RDD 的概念
+
+RDD是只读的
+
+Resilient Distributed Datasets
+
+定义（是什么）：一个不可变的、分区的、可并行计算的数据集合。
+
+- **核心特性**：
+  - **弹性**：具备容错性。通过**血缘关系**实现——如果一个RDD的分区数据丢了，它可以根据其来源（“父”RDD）和转换操作重新计算出来。(容错性)
+  - **分布式**：数据被分区后分散在集群的不同节点上。
+
+​	     数据来源即是HDFS ,block就是RDD的partition
+
+
+
+
+
+## RDD  的操作（算子）
+
+**算子就是对RDD/DataFrame进行操作的方法。** 主要分为两大类：
+
+1. **Transformation（转换）**：**懒加载**，只定义计算逻辑，不立即执行。返回一个新的RDD/DataFrame。
+
+2. **Action（动作）**：**立即执行**，触发所有累积的Transformation实际运行，并返回结果给Driver或写入外部存储。
+
+   
+
+   **面试金句：一个Spark应用由一个或多个Job组成，每个Job由一个Action触发。**
+
+### 1.Transformation 转换算子
+
+惰性执行： 只记录转换关系，不计算
+
+```
+map
+filter
+```
+
+#### 1. Value数据类型转换
+
+| 算子                | 描述                           | 特点               |
+| :------------------ | :----------------------------- | :----------------- |
+| **`map(func)`**     | 对每个元素应用func，一对一转换 | 最基础，使用最频繁 |
+| **`filter(func)`**  | 过滤掉使func返回false的元素    | 数据清洗必备       |
+| **`flatMap(func)`** | 对每个元素应用func后压平结果   | 一对多，常用于分词 |
+
+####  Key-Value数据转换（最重要！）
+
+| 算子                                           | 描述                  | Shuffle? | 特点                        |
+| :--------------------------------------------- | :-------------------- | :------- | :-------------------------- |
+| **`groupByKey([numPartitions])`**              | 按Key分组             | **有**   | 性能较差，优先用reduceByKey |
+| **`reduceByKey(func, [numPartitions])`**       | 按Key聚合             | **有**   | **Map端预聚合，性能优**     |
+| **`aggregateByKey(zeroValue)(seqOp, combOp)`** | 更通用的按Key聚合     | **有**   | 可改变返回值类型            |
+| **`sortByKey([ascending], [numPartitions])`**  | 按Key排序             | **有**   | 全局排序                    |
+| **`join(otherRdd, [numPartitions])`**          | 内连接                | **有**   | 类似SQL的JOIN               |
+| `countByKey()`                                 | 统计每个Key出现的次数 | Action   | 返回Map到                   |
+
+
+
+### 2.Action 动作算子 (立即执行，触发Job)
+
+通过RDD计算得到一个值或一组值
+
+真正出发计算
+
+```
+count
+```
+
+
+
+## RDD之间的关系
+
+### 1.窄依赖
+
+一对一的关系，一个RDD的分区对应到一个RDD的分区
+
+父RDD的每个分区最多被子RDD的**一个**分区所使用（如`map`, `filter`）。
+
+如：map,fiter
+
+**不需要Shuffle**。
+
+### 2.宽依赖
+
+多对一的关系，多个RDD对应一个RDD
+
+- **宽依赖**：父RDD的一个分区会被子RDD的**多个**分区所使用（如`groupByKey`, `reduceByKey`）。
+- **需要Shuffle**。
+
+宽依赖算子：
+
+
+
+
+
+## 实际项目经验中的运用RDD的编程模型：
+
+## 
+
+
+
+## **DataFrame / Dataset**
+
+**（Spark 2.x/3.x的现代核心）**
+
+- **DataFrame**：可以看作是**一张分布式表格**，有行和列（带Schema信息），类似于Pandas DataFrame或数据库表。
+
+  # RDD和DataFrame的区别？
+
+  RDD是Spark的**底层核心和基础**，提供了灵活但原始的API；
+  
+  DataFrame是构建在RDD之上的**<u>高级抽象</u>**，通过优化器提供了更高效、更易用的API。
+
+1. **`map` vs `mapPartitions`？**
+   - `map`：逐元素处理，函数调用频繁。
+   - `mapPartitions`：以分区为单位处理，可以在分区开始时创建资源（数据库连接），在处理所有元素后关闭，避免频繁创建销毁开销。**但可能引起OOM**，因为要加载整个分区的数据到内存。
+2. **`reduceByKey` vs `groupByKey`？**
+   - **永远优先使用`reduceByKey`**！因为它有Map端Combiner，能大大减少Shuffle的数据量。`groupByKey`会把所有数据不经处理地通过网络传输，性能极差。
+3. **`coalesce` vs `repartition`？**
+   - `coalesce`：用于**减少**分区，默认**不进行Shuffle**。比如从1000个分区合并到100个，效率高。
+   - `repartition`：用于**增加或减少**分区，**一定会触发Shuffle**。比如你想把数据打散得更均匀，或者从4个分区增加到100个分区。
+4. **如何选择`collect`和`take`？**
+   - `collect`：将**所有数据**拉取到Driver。如果数据量很大，会导致Driver OOM。**仅用于测试或结果集极小的场景**。
+   - `take(n)`：只拉取前n条数据，安全可靠。生产环境多用`take`。
+
+# 四、执行计划DAG&Stage 
+
+根据宽展依赖划分stage， 从而划分task
+
+
+
+
+
+## Spark的性能优化
+
+#### 7.1 **分区（Partitioning）**
+
+- RDD/DataFrame 被划分为多个分区，每个分区由一个 Task 处理。
+- 合理设置分区数可以提高并行度。
+
+#### 7.2 **持久化（Persistence / Caching）**
+
+- 使用 `persist()` 或 `cache()` 将 RDD 存入内存，避免重复计算。
+
+```
+rdd.cache()  # 第一次计算后缓存到内存
+```
+
+#### 7.3 **广播变量（Broadcast Variables）**
+
+- 将只读大变量广播到所有节点，避免重复发送。
+
+#### 7.4 **累加器（Accumulators）**
+
+- 用于计数或求和的共享变量，只能被 Driver 读取。
+
+## 如何处理数据倾斜？（经典难题）
+
+- **现象**：绝大多数Task很快完成，个别Task极慢，导致整个作业卡住。
+- **解决方案**：
+  - **预处理**：过滤掉导致倾斜的异常Key（如null值）。
+  - **加盐**：将倾斜的Key加上随机前缀，打散它的分布。处理完后，再去掉前缀合并结果。
+  - **提高Shuffle并行度**：通过`spark.sql.shuffle.partitions`参数增加分区数。
+
+# 五、运行模式
+
+|                             | 适用场景                                              | **特点**                                                     |
+| --------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ |
+| 本地Local模式               | 开发、测试和调试                                      | 简单易用，无需集群环境。                                     |
+| Standalone 模式（独立模式） | 中小规模集群，无需依赖外部集群管理器。                | 需要手动启动 Spark 集群（Master 和 Worker 节点）。 支持高可用性（HA）模式，可以通过 ZooKeeper 实现 Master 的故障恢复。 |
+| **YARN 模式**               | 已经部署 Hadoop 的大数据集群                          | 在 Hadoop YARN（Yet Another Resource Negotiator）上运行 Spark，YARN 负责资源管理和任务调度。 |
+| Mesos                       | 需要与其他框架（如 Hadoop、Kafka 等）共享资源的集群。 | 支持细粒度和粗粒度的资源调度。 适合多框架共享资源的场景。    |
+| **Kubernetes 模式**         | 基于容器的云原生环境。                                | 支持动态资源分配和容器化部署。 适合云原生架构和微服务环境。  |
+
+- 
+- 
+
+# 常见面试题
+
+1. - - 

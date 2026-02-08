@@ -11,14 +11,10 @@
             "id": "f83d916395da24fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "新标签页"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -165,11 +159,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,10 +178,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "770fa05894d72bb8",
+  "active": "f83d916395da24fa",
   "lastOpenFiles": [
-    "Python.md",
+    "欢迎.md",
+    "2_大数据理论_数据库及框架技术栈/五分钟学大数据-Spark 面试八股文.pdf",
+    "2_大数据理论_数据库及框架技术栈/五分钟学大数据-Spark数据倾斜及解决方案.pdf",
+    "2_大数据理论_数据库及框架技术栈/数据仓库笔记与技术面试问题.md",
+    "2_大数据理论_数据库及框架技术栈/数据治理.md",
+    "2_大数据理论_数据库及框架技术栈/5.kafka.md",
+    "2_大数据理论_数据库及框架技术栈/3_Spark.md",
+    "2_大数据理论_数据库及框架技术栈/2_hadoop与hive.md",
+    "2_大数据理论_数据库及框架技术栈/1_关系型数据库.md",
+    "2_大数据理论_数据库及框架技术栈/0_大数据理论及其发展.md",
+    "2_大数据理论_数据库及框架技术栈/大数据理论学习资料/hadoop集群搭建/Hadoop集群搭建详细步骤.pdf",
+    "2_大数据理论_数据库及框架技术栈/大数据理论学习资料/PPT/5 - Spark核心回顾+新特性.pdf",
+    "2_大数据理论_数据库及框架技术栈/大数据理论学习资料/PPT/1 - Spark基础入门.pdf",
+    "2_大数据理论_数据库及框架技术栈/大数据理论学习资料/五分钟学大数据-2022最新大数据面试宝典.pdf",
+    "2_大数据理论_数据库及框架技术栈/大数据理论学习资料/五分钟学大数据-数据湖知识体系总结.pdf",
+    "2_大数据理论_数据库及框架技术栈/大数据理论学习资料/五分钟学大数据-操作系统篇.pdf",
     "Git.md",
-    "欢迎.md"
+    "2_大数据理论_数据库及框架技术栈/大数据理论学习资料/【26】第三版PDF面试题压缩后/第三版：7701 电子版 PDF 压缩汇总/压缩后7701页《第3版：互联网大厂面试题》pdf.zip",
+    "2_大数据理论_数据库及框架技术栈/大数据理论学习资料/【26】第三版PDF面试题压缩后/第三版：7701 电子版 PDF 压缩汇总",
+    "2_大数据理论_数据库及框架技术栈/数据倾斜问题全面总结.md",
+    "2_大数据理论_数据库及框架技术栈/SQL执行计划和调优.md",
+    "2_大数据理论_数据库及框架技术栈/Hive知识点.md",
+    "2_大数据理论_数据库及框架技术栈/4_Flink.md",
+    "2_大数据理论_数据库及框架技术栈/2_SQL题库.md",
+    "2_大数据理论_数据库及框架技术栈/1_SQL基础知识.md",
+    "1_SQL与数据库/2_SQL题库.md",
+    "1_SQL与数据库/1_SQL基础知识.md",
+    "Python.md"
   ]
 }
