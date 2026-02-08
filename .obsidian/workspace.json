@@ -95,7 +95,7 @@
               "type": "backlink",
               "state": {
                 "file": "欢迎.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "欢迎 的出链列表"
             }
           },
           {
@@ -163,7 +164,8 @@
               "title": "大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f83d916395da24fa",
+  "active": "770fa05894d72bb8",
   "lastOpenFiles": [
     "Python.md",
     "Git.md",
