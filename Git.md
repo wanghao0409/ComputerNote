@@ -18,7 +18,7 @@ git add
 
 ## 本地仓库
 
-```
+```shell
 git commit 
 ```
 
