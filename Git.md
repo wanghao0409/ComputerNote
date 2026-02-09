@@ -44,7 +44,13 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 
 ssh-keygen -t ed25519 -C "398708416@qq.com"
+
+ssh-keygen -t rsa
+
+cat ~/.ssh/id_rsa.pub
 ```
+
+
 
 
 - `**git init**：`
