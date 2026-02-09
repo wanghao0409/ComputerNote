@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Hive&Hadoop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Hive&Hadoop"
             }
           }
         ]
@@ -186,6 +186,7 @@
   },
   "active": "3ce257a530adf010",
   "lastOpenFiles": [
+    "Git.md",
     "Hive&Hadoop.md",
     "Python.md",
     "2_大数据理论_数据库及框架技术栈/3_Spark.md",
@@ -195,7 +196,6 @@
     "2_大数据理论_数据库及框架技术栈/4_Flink.md",
     "2_大数据理论_数据库及框架技术栈/2_hadoop与hive.md",
     "2_大数据理论_数据库及框架技术栈/0_大数据理论及其发展.md",
-    "Git.md",
     "欢迎.md",
     "2_大数据理论_数据库及框架技术栈/五分钟学大数据-Spark 面试八股文.pdf",
     "2_大数据理论_数据库及框架技术栈/五分钟学大数据-Spark数据倾斜及解决方案.pdf",
