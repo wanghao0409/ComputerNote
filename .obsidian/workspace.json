@@ -35,7 +35,8 @@
               "title": "Hive&Hadoop"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,7 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -198,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ce257a530adf010",
+  "active": "d3f4e36164de5a72",
   "lastOpenFiles": [
     "Git.md",
     "Hive&Hadoop.md",
