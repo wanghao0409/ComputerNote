@@ -61,7 +61,7 @@ cat ~/.ssh/id_rsa.pub
 
 | 平台地址   | account          | password   |
 | ------ | ---------------- | ---------- |
-| github | 398708416@qq.com |            |
+| github | 398708416@qq.com | Sh0000!!   |
 | gitee  | 13427566653      | Sh0000!!@@ |
 |        |                  |            |
 
