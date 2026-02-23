@@ -36,6 +36,10 @@ git commit
 git push 
 ```
 
+## 从远处仓库开始
+- `**git init**：`
+- `**git clone**：复制**现有仓库**（从远程下载）`
+
 
 # SSH 认证
 ```
@@ -55,8 +59,6 @@ cat ~/.ssh/id_rsa.pub
 
 
 
-- `**git init**：`
-- `**git clone**：复制**现有仓库**（从远程下载）`
 
 `
 
