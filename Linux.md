@@ -1,18 +1,19 @@
 
+# 一. 文件管理系统
 
 一切皆文件
 
 Linux的一切皆文件是指，Linux世界中的所有、任意、一切东西都可以通过文件的方式访问、管理。
-
+Linux 基金会发布的 FHS 标准: FHS（Filesystem Hierarchy Standard），文件系统层次化标准，该标准规定了 Linux 系统中所有一级目录以及部分二级目录（/usr 和 /var）的用途。
 
 
 
 ```mermaid
 graph LR
     Root("/ 根目录 （公司大楼）") --> Boot[ /boot（机房：内核与引导）]
-    Root --> ETC[ /etc（行政部：配置文件） ]
-    Root --> BIN[ /bin（公共文具：普通命令） ]
-    Root --> SBIN[ /sbin （行政钥匙：管理命令） ]
+    Root --> ETC[ /etc（配置文件） ]
+    Root --> BIN[ /bin（普通命令） ]
+    Root --> SBIN[ /sbin （管理命令） ]
     Root --> LIB[ /lib & /lib64 （耗材仓库：系统库） ]
     Root --> DEV[ /dev （监控屏：硬件设备） ]
     Root --> PROC[ /proc （实时监控表：内核/进程） ]

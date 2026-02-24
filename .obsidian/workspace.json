@@ -123,16 +123,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md",
+                "file": "Linux.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 的大纲"
+              "title": "Linux 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
