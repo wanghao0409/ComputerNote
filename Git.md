@@ -37,14 +37,25 @@ git push
 ```
 
 ## 二. 从远处仓库开始
-- `**git init**：`
-- `**git clone**：复制**现有仓库**（从远程下载）`
+
+```shell
+git clone**：复制现有仓库（从远程下载）
+
+eg:
+git clone git@github.com:wanghao0409/future.git
+
+git clone git@github.com:wanghao0409/ComputerNote.git
+
+git clone git@github.com:wanghao0409/ObsidianNote.git
+
+```
+
 
 
 
 
 # SSH 认证
-```
+```shell
 ssh-keygen -t ed25519 -C "your_email@example.com"
 
 # -t 压缩算法类型
@@ -64,7 +75,7 @@ cat ~/.ssh/id_rsa.pub
 
 `
 
-
+# 冲突解决
 
 
 
