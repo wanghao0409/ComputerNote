@@ -10,7 +10,7 @@ Linux的一切皆文件是指，Linux世界中的所有、任意、一切东西�
 ```mermaid
 graph LR
     Root[根/] --> boot[boot]
-    Root --> B[部门B]
+    Root --> etc[etc配置文件]
     boot --> boot-c[核心启动区]
 	
 
