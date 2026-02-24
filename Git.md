@@ -39,7 +39,7 @@ git push
 ## 二. 从远处仓库开始
 
 ```shell
-git clone**：复制现有仓库（从远程下载）
+git clone #复制现有仓库（从远程下载）
 
 eg:
 git clone git@github.com:wanghao0409/future.git
