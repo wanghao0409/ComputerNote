@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux.md",
+                "file": "Linux & Shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
+              "title": "Linux & Shell"
             }
           }
         ],
@@ -123,17 +123,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux.md",
+                "file": "Linux & Shell.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux 的大纲"
+              "title": "Linux & Shell 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,7 +231,7 @@
   "lastOpenFiles": [
     "Mermaid.md",
     "Python.md",
-    "Linux.md",
+    "Linux & Shell.md",
     "1_SQL与数据库/1_SQL基础知识.md",
     "Git.md",
     "linux",
