@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "训练.md",
+                "file": "2_大数据理论_数据库及框架技术栈/SQL执行计划和调优.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "训练"
+              "title": "SQL执行计划和调优"
             }
           }
         ],
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "训练.md",
+                "file": "2_大数据理论_数据库及框架技术栈/SQL执行计划和调优.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "训练 的大纲"
+              "title": "SQL执行计划和调优 的大纲"
             }
           }
         ]
@@ -243,10 +243,13 @@
   },
   "active": "74d0f3d8a952a001",
   "lastOpenFiles": [
-    "Python.md",
-    "训练.md",
-    "Linux & Shell.md",
     "2_大数据理论_数据库及框架技术栈/2_hadoop与hive.md",
+    "2_大数据理论_数据库及框架技术栈/2_SQL题库.md",
+    "2_大数据理论_数据库及框架技术栈/4_Flink.md",
+    "2_大数据理论_数据库及框架技术栈/数据治理.md",
+    "训练.md",
+    "Python.md",
+    "Linux & Shell.md",
     "1_SQL与数据库/2_SQL题库.md",
     "Key.md",
     "Mermaid.md",
@@ -256,7 +259,6 @@
     "conflict-files-obsidian-git.md",
     "1_SQL与数据库",
     "Hive&Hadoop.md",
-    "2_大数据理论_数据库及框架技术栈/数据治理.md",
     "2_大数据理论_数据库及框架技术栈/数据治理.docx",
     "2_大数据理论_数据库及框架技术栈/数据倾斜问题全面总结.md",
     "2_大数据理论_数据库及框架技术栈/数据仓库笔记与技术面试问题.md",
@@ -266,9 +268,7 @@
     "2_大数据理论_数据库及框架技术栈/Hive.xmind",
     "2_大数据理论_数据库及框架技术栈/Hadoop.xmind",
     "2_大数据理论_数据库及框架技术栈/5.kafka.md",
-    "2_大数据理论_数据库及框架技术栈/4_Flink.md",
     "2_大数据理论_数据库及框架技术栈/3_Spark.md",
-    "2_大数据理论_数据库及框架技术栈/2_SQL题库.md",
     "2_大数据理论_数据库及框架技术栈/1_关系型数据库.md",
     "2_大数据理论_数据库及框架技术栈/1_SQL基础知识.md",
     "2_大数据理论_数据库及框架技术栈/0_大数据理论及其发展.md",
