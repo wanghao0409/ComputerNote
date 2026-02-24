@@ -32,3 +32,53 @@ graph LR
 ```
 
 `
+```mermaid
+
+flowchart LR
+    subgraph A [第一类：核心启动区]
+        direction LR
+        boot[“/boot<br>内核 & 引导”]
+        efi[“/efi<br>UEFI启动”]
+    end
+    
+    subgraph B [第二类：管理员专用]
+        direction LR
+        etc[“/etc<br>配置文件”]
+        sbin[“/sbin<br>管理命令”]
+        lib[“/lib<br>系统库”]
+    end
+    
+    subgraph C [第三类：硬件/内核交互]
+        direction LR
+        dev[“/dev<br>设备文件”]
+        proc[“/proc<br>进程信息”]
+        sys[“/sys<br>硬件状态”]
+    end
+    
+    subgraph D [第四类：用户数据]
+        direction LR
+        home[“/home<br>普通用户家”]
+        root[“/root<br>管理员家”]
+        opt[“/opt<br>第三方软件”]
+    end
+    
+    subgraph E [第五类：动态/临时]
+        direction LR
+        var[“/var<br>日志/缓存”]
+        tmp[“/tmp<br>临时文件”]
+        run[“/run<br>运行时数据”]
+    end
+    
+    subgraph F [第六类：挂载点]
+        direction LR
+        media[“/media<br>自动挂载”]
+        mnt[“/mnt<br>手动挂载”]
+    end
+    
+    User(("用户<br>（你是谁？）")) --> A
+    User --> B
+    User --> C
+    User --> D
+    User --> E
+    User --> F
+```
