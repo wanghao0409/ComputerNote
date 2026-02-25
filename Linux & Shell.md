@@ -48,7 +48,24 @@ Linux的目录结构一开始看起来可能很杂乱，但如果按照**“谁�
 |     | /media           | 当你插入U盘、手机或光盘时，系统通常会自动把它们挂载到这里的一个子目录下。**可移动媒体挂载点（USB接口）**                                             |
 |     | /mnt             | **临时挂载点（临时接线口）**`Mount`。以前是给系统管理员手动挂载临时文件系统（如Windows分区、网络存储）用的。                                      |
 
-
+```html
+<table border="1">
+  <tr>
+    <th colspan="2">个人信息</th>  <!-- 这个单元格横跨2列 -->
+    <th>年龄</th>
+  </tr>
+  <tr>
+    <td>张三</td>
+    <td>zhangsan@example.com</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>李四</td>
+    <td>lisi@example.com</td>
+    <td>30</td>
+  </tr>
+</table>
+```
 
 
 ### 第四类：用户数据区 —— 员工工位与公共区域

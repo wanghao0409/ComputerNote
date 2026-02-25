@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#内核与硬件交互区",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "526e6fab5592f122",
+  "active": "74d0f3d8a952a001",
   "lastOpenFiles": [
     "2_大数据理论_数据库及框架技术栈/SQL执行计划和调优.md",
     "训练.md",
