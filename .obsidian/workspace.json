@@ -137,17 +137,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "训练.md",
+                "file": "Linux & Shell.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "训练 的大纲"
+              "title": "Linux & Shell 的大纲"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
