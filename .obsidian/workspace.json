@@ -160,7 +160,8 @@
               "title": "Shell 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -255,7 +256,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45193c4e985ba0fe",
+  "active": "31ee5dccd9619a40",
   "lastOpenFiles": [
     "Linux系统/Linux 基础及常用命令.md",
     "Linux系统/Shell.md",
