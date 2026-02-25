@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Linux & Shell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "Linux & Shell"
             }
           }
         ],
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#内核与硬件交互区",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,17 +137,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md",
+                "file": "训练.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Git 的大纲"
+              "title": "训练 的大纲"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,13 +242,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31ee5dccd9619a40",
+  "active": "526e6fab5592f122",
   "lastOpenFiles": [
+    "2_大数据理论_数据库及框架技术栈/SQL执行计划和调优.md",
     "训练.md",
     "Git.md",
     "Hive&Hadoop.md",
     "2_大数据理论_数据库及框架技术栈/数据倾斜问题全面总结.md",
-    "2_大数据理论_数据库及框架技术栈/SQL执行计划和调优.md",
     "2_大数据理论_数据库及框架技术栈/2_hadoop与hive.md",
     "2_大数据理论_数据库及框架技术栈/2_SQL题库.md",
     "2_大数据理论_数据库及框架技术栈/4_Flink.md",
