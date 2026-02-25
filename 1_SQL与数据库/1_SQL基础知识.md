@@ -9,18 +9,20 @@ SQL (Structured Query Language)
 ## 一、数据定义 ( DDL)
 
 DDL全称是Data Definition Language，即数据定义语言，定义语言就是定义关系模式、删除关系、修改关系模式以及创建数据库中的各种对象，比如表、聚簇、索引、视图、函数、存储过程和触发器等等。
+```sql
+CREATE --创建数据库对象（表、视图、索引等）
 
-- `CREATE` - 创建数据库对象（表、视图、索引等）
+ALTER -- 修改数据库对象结构
 
-- `ALTER` - 修改数据库对象结构
+DROP -- 删除数据库对象
 
-- `DROP` - 删除数据库对象
+TRUNCATE -- 删除表中的所有数据
 
-- `TRUNCATE` - 删除表中的所有数据
+RENAME -- 重命名数据库对象
 
-- `RENAME` - 重命名数据库对象
+COMMENT -- 添加注释到数据字典
+```
 
-- `COMMENT` - 添加注释到数据字典
 
   索引
 

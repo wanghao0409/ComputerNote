@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux系统/Shell.md",
+                "file": "1_SQL与数据库/2_SQL题库.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shell"
+              "title": "2_SQL题库"
             }
           }
         ],
@@ -151,17 +151,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux系统/Shell.md",
+                "file": "1_SQL与数据库/2_SQL题库.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Shell 的大纲"
+              "title": "2_SQL题库 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -256,32 +255,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31ee5dccd9619a40",
+  "active": "45193c4e985ba0fe",
   "lastOpenFiles": [
-    "Linux系统/Linux 基础及常用命令.md",
-    "Linux系统/Shell.md",
-    "Linux系统",
+    "1_SQL与数据库/1_SQL基础知识.md",
+    "1_SQL与数据库/2_SQL题库.md",
     "Python.md",
-    "2_大数据理论_数据库及框架技术栈/SQL执行计划和调优.md",
-    "训练.md",
-    "Git.md",
+    "Key.md",
+    "Mermaid.md",
+    "2_大数据理论_数据库及框架技术栈/Hive知识点.md",
     "Hive&Hadoop.md",
+    "Git.md",
+    "Linux系统/Shell.md",
+    "训练.md",
+    "Linux系统/Linux 基础及常用命令.md",
+    "Linux系统",
+    "2_大数据理论_数据库及框架技术栈/SQL执行计划和调优.md",
     "2_大数据理论_数据库及框架技术栈/数据倾斜问题全面总结.md",
     "2_大数据理论_数据库及框架技术栈/2_hadoop与hive.md",
     "2_大数据理论_数据库及框架技术栈/2_SQL题库.md",
     "2_大数据理论_数据库及框架技术栈/4_Flink.md",
     "2_大数据理论_数据库及框架技术栈/数据治理.md",
-    "1_SQL与数据库/2_SQL题库.md",
-    "Key.md",
-    "Mermaid.md",
-    "1_SQL与数据库/1_SQL基础知识.md",
     "linux",
     "conflict-files-obsidian-git.md",
     "1_SQL与数据库",
     "2_大数据理论_数据库及框架技术栈/数据治理.docx",
     "2_大数据理论_数据库及框架技术栈/数据仓库笔记与技术面试问题.md",
     "2_大数据理论_数据库及框架技术栈/SQL调优.xmind",
-    "2_大数据理论_数据库及框架技术栈/Hive知识点.md",
     "2_大数据理论_数据库及框架技术栈/Hive.xmind",
     "2_大数据理论_数据库及框架技术栈/Hadoop.xmind",
     "2_大数据理论_数据库及框架技术栈/5.kafka.md",
