@@ -125,6 +125,7 @@ graph LR
 |        | -r  | recursion       | 递归删除                    |
 |        | -f  | force           | 强制删除，不会询问               |
 |        | -rf | recursion foucs | 递归移除所有子目录文件             |
+|        |     |                 |                         |
 
 
 | **命令** | 参数  | **英文**          | **作用**                  |
