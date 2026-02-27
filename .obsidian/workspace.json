@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "12A.md",
+                "file": "Others/11C.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12A"
+              "title": "11C"
             }
           }
         ],
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "12A.md",
+                "file": "Others/11C.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12A 的大纲"
+              "title": "11C 的大纲"
             }
           }
         ]
@@ -286,7 +286,7 @@
   "active": "bdee6cbd7c62858c",
   "lastOpenFiles": [
     "Others/训练.md",
-    "12A.md",
+    "Others/11C.md",
     "Others.md",
     "Others",
     "大数据/2. Hadoop&Hive.md",
