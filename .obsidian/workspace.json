@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/15A  Breakouts.md",
+                "file": "Others/18A  Trading Ranges.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15A  Breakouts"
+              "title": "18A  Trading Ranges"
             }
           }
         ],
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/15A  Breakouts.md",
+                "file": "Others/18A  Trading Ranges.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "15A  Breakouts 的大纲"
+              "title": "18A  Trading Ranges 的大纲"
             }
           }
         ]
@@ -299,8 +299,9 @@
   },
   "active": "882e8ed83a9e43ae",
   "lastOpenFiles": [
-    "Others/14E  Trends 1 1 1.md",
     "Others/15A  Breakouts.md",
+    "Others/18A  Trading Ranges.md",
+    "Others/14E  Trends 1 1 1.md",
     "Others/14D  Trends 1 1.md",
     "Others/14C  Trends 1.md",
     "Others/14A  Trends.md",
@@ -326,7 +327,6 @@
     "编程语言/Git.md",
     "大数据/1. 标准SQL与数据库.md",
     "编程语言",
-    "大数据/数据治理.md",
     "大数据/数据治理.docx",
     "大数据/SQL调优.xmind",
     "大数据/Hive.xmind",
