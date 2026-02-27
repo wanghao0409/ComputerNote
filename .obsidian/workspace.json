@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/12A  market cycle context.md",
+                "file": "Others/12A  Market cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12A  market cycle context"
+              "title": "12A  Market cycle"
             }
           }
         ],
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/12A  market cycle context.md",
+                "file": "Others/12A  Market cycle.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12A  market cycle context 的大纲"
+              "title": "12A  Market cycle 的大纲"
             }
           }
         ]
@@ -299,8 +299,9 @@
   },
   "active": "882e8ed83a9e43ae",
   "lastOpenFiles": [
+    "Others/12B  Market cycle.md",
+    "Others/12A  Market cycle.md",
     "Others/训练.md",
-    "Others/12A  market cycle context.md",
     "conflict-files-obsidian-git.md",
     "Others/11C.md",
     "Others.md",
@@ -330,7 +331,6 @@
     "大数据/SQL调优.xmind",
     "大数据/Hive.xmind",
     "大数据/Hadoop.xmind",
-    "大数据理论_数据库及框架技术栈/3_Spark.md",
     "计算机基础",
     "Linux系统",
     "linux",
