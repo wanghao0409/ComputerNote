@@ -61,7 +61,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 # -t 压缩算法类型
 # -C 注释
 
-# E
+# Eg: 
 ssh-keygen -t ed25519 -C "398708416@qq.com"
 
 ssh-keygen -t rsa
