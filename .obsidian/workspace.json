@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/22A  Final Flags.md",
+                "file": "Others/21A  Reversals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22A  Final Flags"
+              "title": "21A  Reversals"
             }
           }
         ],
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/22A  Final Flags.md",
+                "file": "Others/21A  Reversals.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "22A  Final Flags 的大纲"
+              "title": "21A  Reversals 的大纲"
             }
           }
         ]
@@ -311,9 +311,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9feb15aa17db1e2",
+  "active": "5357f2ff59ee7196",
   "lastOpenFiles": [
-    "Others/22A  Major Trend Reversals.md",
+    "Others/23A  Major Trend Reversals.md",
     "Others/22A  Final Flags.md",
     "Key.md",
     "English",
