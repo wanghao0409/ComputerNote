@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/12C  Market cycle.md",
+                "file": "Others/13A  Always In.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12C  Market cycle"
+              "title": "13A  Always In"
             }
           }
         ],
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/12C  Market cycle.md",
+                "file": "Others/13A  Always In.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "12C  Market cycle 的大纲"
+              "title": "13A  Always In 的大纲"
             }
           }
         ]
@@ -299,8 +299,9 @@
   },
   "active": "882e8ed83a9e43ae",
   "lastOpenFiles": [
-    "Others/12B  Market cycle.md",
     "Others/12C  Market cycle.md",
+    "Others/13A  Always In.md",
+    "Others/12B  Market cycle.md",
     "Others/12A  Market cycle.md",
     "Others/训练.md",
     "conflict-files-obsidian-git.md",
@@ -326,7 +327,6 @@
     "大数据/Hive知识点.md",
     "大数据/数据倾斜问题全面总结.md",
     "大数据/5. Kafka.md",
-    "大数据/4. Flink.md",
     "大数据/数据治理.docx",
     "大数据/SQL调优.xmind",
     "大数据/Hive.xmind",
