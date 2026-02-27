@@ -2,3 +2,6 @@
 市场周期的四个部分
 
 
+
+
+# Pullback is start of channel
