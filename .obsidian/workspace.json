@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/14C  Trends 1.md",
+                "file": "Others/15A  Breakouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14C  Trends 1"
+              "title": "15A  Breakouts"
             }
           }
         ],
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/14C  Trends 1.md",
+                "file": "Others/15A  Breakouts.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "14C  Trends 1 的大纲"
+              "title": "15A  Breakouts 的大纲"
             }
           }
         ]
@@ -299,8 +299,11 @@
   },
   "active": "882e8ed83a9e43ae",
   "lastOpenFiles": [
-    "Others/14A  Trends.md",
+    "Others/14E  Trends 1 1 1.md",
+    "Others/15A  Breakouts.md",
+    "Others/14D  Trends 1 1.md",
     "Others/14C  Trends 1.md",
+    "Others/14A  Trends.md",
     "Others/13B  Always In.md",
     "Others/12C  Market cycle.md",
     "Others/12A  Market cycle.md",
@@ -324,9 +327,6 @@
     "大数据/1. 标准SQL与数据库.md",
     "编程语言",
     "大数据/数据治理.md",
-    "大数据/数据仓库笔记与技术面试问题.md",
-    "大数据/0 大数据理论及其发展.md",
-    "大数据/1.3 SQL执行计划和调优.md",
     "大数据/数据治理.docx",
     "大数据/SQL调优.xmind",
     "大数据/Hive.xmind",
