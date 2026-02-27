@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/18A  Trading Ranges.md",
+                "file": "Others/21A  Reversals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18A  Trading Ranges"
+              "title": "21A  Reversals"
             }
           }
         ],
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/18A  Trading Ranges.md",
+                "file": "Others/21A  Reversals.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "18A  Trading Ranges 的大纲"
+              "title": "21A  Reversals 的大纲"
             }
           }
         ]
@@ -299,8 +299,12 @@
   },
   "active": "882e8ed83a9e43ae",
   "lastOpenFiles": [
-    "Others/15A  Breakouts.md",
+    "Others/20A  Measured Moves.md",
+    "Others/21A  Reversals.md",
+    "Others/19A  Support and Resistance.md",
     "Others/18A  Trading Ranges.md",
+    "Linux系统/Linux 基础及常用命令.md",
+    "Others/15A  Breakouts.md",
     "Others/14E  Trends 1 1 1.md",
     "Others/14D  Trends 1 1.md",
     "Others/14C  Trends 1.md",
@@ -319,13 +323,9 @@
     "大数据/2. Hadoop&Hive.md",
     "Key.md",
     "Linux系统/Shell.md",
-    "Linux系统/Linux 基础及常用命令.md",
     "计算机基础/算法.md",
     "大数据/3. Spark.md",
     "编程语言/Python.md",
-    "编程语言/Mermaid.md",
-    "编程语言/Git.md",
-    "大数据/1. 标准SQL与数据库.md",
     "编程语言",
     "大数据/数据治理.docx",
     "大数据/SQL调优.xmind",
