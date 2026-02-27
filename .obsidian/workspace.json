@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/2_hadoop与hive.md",
+                "file": "Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2_hadoop与hive"
+              "title": "Git"
             }
           }
         ],
@@ -257,15 +257,16 @@
   },
   "active": "45193c4e985ba0fe",
   "lastOpenFiles": [
+    "大数据/0_大数据理论及其发展.md",
+    "大数据/1_SQL基础知识.md",
+    "大数据/4_Flink.md",
+    "大数据/数据倾斜问题全面总结.md",
+    "大数据/2_hadoop与hive.md",
     "训练.md",
     "Git.md",
     "Linux系统/Linux 基础及常用命令.md",
     "大数据/Hive知识点.md",
-    "大数据/2_hadoop与hive.md",
     "大数据/1.2_SQL题库.md",
-    "大数据/1_SQL基础知识.md",
-    "大数据/0_大数据理论及其发展.md",
-    "大数据/数据倾斜问题全面总结.md",
     "大数据/数据治理.md",
     "大数据/数据治理.docx",
     "大数据/数据仓库笔记与技术面试问题.md",
@@ -273,7 +274,6 @@
     "大数据/Hive.xmind",
     "大数据/Hadoop.xmind",
     "大数据/5.kafka.md",
-    "大数据/4_Flink.md",
     "大数据/3_Spark.md",
     "大数据/1_关系型数据库.md",
     "大数据理论_数据库及框架技术栈/3_Spark.md",
