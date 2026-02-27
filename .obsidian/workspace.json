@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/21A  Reversals.md",
+                "file": "Others/25A  Double Tops and Bottoms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21A  Reversals"
+              "title": "25A  Double Tops and Bottoms"
             }
           }
         ],
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/21A  Reversals.md",
+                "file": "Others/25A  Double Tops and Bottoms.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "21A  Reversals 的大纲"
+              "title": "25A  Double Tops and Bottoms 的大纲"
             }
           }
         ]
@@ -311,13 +311,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5357f2ff59ee7196",
+  "active": "a9feb15aa17db1e2",
   "lastOpenFiles": [
+    "Others/24A  Wedges.md",
+    "Others/25A  Double Tops and Bottoms.md",
     "Others/23A  Major Trend Reversals.md",
+    "Others/21A  Reversals.md",
     "Others/22A  Final Flags.md",
     "Key.md",
     "English",
-    "Others/21A  Reversals.md",
     "计算机基础/操作系统.md",
     "计算机基础/计算机网络.md",
     "计算机基础/数据结构与算法.md",
@@ -338,8 +340,6 @@
     "Others/12B  Market cycle.md",
     "Others/13A  Always In.md",
     "Others/13C  Always In ★★.md",
-    "Others/训练.md",
-    "conflict-files-obsidian-git.md",
     "Others",
     "编程语言",
     "大数据/数据治理.docx",
