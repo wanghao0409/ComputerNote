@@ -1,7 +1,11 @@
 
 
 
-# definition2: Pullbacks
+
+# Always in Direction
+
+## Unsure Trend or Trending Range : assume TR
 
 
-binary Decisions
+
+# Treader's Equation

@@ -1,0 +1,5 @@
+
+
+
+
+# Scalping and swing trading
