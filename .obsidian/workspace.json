@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/29A Climaxes.md",
+                "file": "Others/30A  Trader's Equation and Probability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29A Climaxes"
+              "title": "30A  Trader's Equation and Probability"
             }
           }
         ],
@@ -207,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/29A Climaxes.md",
+                "file": "Others/30A  Trader's Equation and Probability.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "29A Climaxes 的大纲"
+              "title": "30A  Trader's Equation and Probability 的大纲"
             }
           }
         ]
@@ -313,8 +313,9 @@
   },
   "active": "a9feb15aa17db1e2",
   "lastOpenFiles": [
+    "Others/29A  Climaxes.md",
+    "Others/30A  Trader's Equation and Probability.md",
     "Others/25A  Double Tops and Bottoms.md",
-    "Others/29A Climaxes.md",
     "Others/24A  Wedges.md",
     "Others/23A  Major Trend Reversals.md",
     "Others/21A  Reversals.md",
@@ -339,7 +340,6 @@
     "Others/12C  Market cycle.md",
     "Others/12A  Market cycle.md",
     "Others/12B  Market cycle.md",
-    "Others/13A  Always In.md",
     "Others",
     "编程语言",
     "大数据/数据治理.docx",
