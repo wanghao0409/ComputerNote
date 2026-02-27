@@ -5,3 +5,8 @@
 
 
 # Pullback is start of channel
+
+
+
+
+# Channel becomes Trading Range
