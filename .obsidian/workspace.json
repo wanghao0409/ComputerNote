@@ -83,15 +83,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Al Brooks Price Action Thores/未命名.canvas",
+                "file": "Al Brooks Price Action Thores/概览.canvas",
                 "viewState": {
-                  "x": -140,
-                  "y": 51,
+                  "x": -30,
+                  "y": -264.5,
                   "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "title": "概览"
             }
           }
         ],
@@ -281,7 +281,7 @@
     "Al Brooks Price Action Thores/9 - 副本/09A  回调 数K线.md",
     "Al Brooks Price Action Thores/9 - 副本",
     "Al Brooks Price Action Thores/33 Protective Stops",
-    "Al Brooks Price Action Thores/未命名.canvas",
+    "Al Brooks Price Action Thores/概览.canvas",
     "Al Brooks Price Action Thores/25 Reversals - Double Tops and Bottoms/25A  Double Tops and Bottoms.md",
     "Al Brooks Price Action Thores/32 Orders/未命名",
     "未命名",
