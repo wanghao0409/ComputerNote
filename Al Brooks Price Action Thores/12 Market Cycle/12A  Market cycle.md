@@ -13,6 +13,8 @@
 
 - 震荡区间
 
+![[Pasted image 20260301233139.png]]
+
 # Pullback is start of channel
 
 

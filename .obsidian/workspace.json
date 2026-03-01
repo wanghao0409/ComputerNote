@@ -81,17 +81,14 @@
             "id": "45193c4e985ba0fe",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Al Brooks Price Action Thores/概览.canvas",
-                "viewState": {
-                  "x": -60,
-                  "y": -489.5,
-                  "zoom": 0
-                }
+                "file": "Al Brooks Price Action Thores/12 Market Cycle/12A  Market cycle.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "概览"
+              "icon": "lucide-file",
+              "title": "12A  Market cycle"
             }
           }
         ],
@@ -258,10 +255,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5357f2ff59ee7196",
+  "active": "45193c4e985ba0fe",
   "lastOpenFiles": [
-    "Al Brooks Price Action Thores/训练.md",
+    "Pasted image 20260301233139.png",
+    "Al Brooks Price Action Thores/12 Market Cycle/12B  Market cycle.md",
     "Al Brooks Price Action Thores/12 Market Cycle/12A  Market cycle.md",
+    "Al Brooks Price Action Thores/概览.canvas",
+    "Al Brooks Price Action Thores/训练.md",
     "Al Brooks Price Action Thores/52 Losing When Good Trade Goes Bad",
     "Al Brooks Price Action Thores/51 Losing Because of Mistakes",
     "Al Brooks Price Action Thores/50 Scalping",
@@ -273,8 +273,6 @@
     "Al Brooks Price Action Thores/44 Trading Tight Bear Channels",
     "Al Brooks Price Action Thores/43 Trading Tight Bull Channels",
     "Al Brooks Price Action Thores/12 Market Cycle/12C  Market cycle.md",
-    "Al Brooks Price Action Thores/12 Market Cycle/12B  Market cycle.md",
-    "Al Brooks Price Action Thores/概览.canvas",
     "编程语言/Python.md",
     "Al Brooks Price Action Thores/11A 缺口.md",
     "Al Brooks Price Action Thores/11 Gaps/11A 缺口.md",
@@ -297,7 +295,6 @@
     "Pasted image 20260301223017.png",
     "Pasted image 20260301222912.png",
     "Al Brooks Price Action Thores/22 Reversals - Major Trend Reversals/22A  Major Trend Reversals.md",
-    "Al Brooks Price Action Thores/20 Measured Moves/20A  Measured Moves.md",
-    "Al Brooks Price Action Thores/19 Support and Resistance/19A  Support and Resistance.md"
+    "Al Brooks Price Action Thores/20 Measured Moves/20A  Measured Moves.md"
   ]
 }
