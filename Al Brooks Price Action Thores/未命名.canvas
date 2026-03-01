@@ -1,1 +1,11 @@
-{}
+{
+	"nodes":[
+		{"id":"4bf3ad5e7cb9cd18","x":500,"y":-61,"width":400,"height":400,"type":"file","file":"Al Brooks Price Action Thores/14 Trend/14C  Trends 1.md"},
+		{"id":"c1445cb2c7705993","x":945,"y":-61,"width":400,"height":400,"type":"file","file":"Al Brooks Price Action Thores/14 Trend/14D  Trends 1 1.md"},
+		{"id":"85e3ef1db49ae780","x":1390,"y":-61,"width":400,"height":400,"type":"file","file":"Al Brooks Price Action Thores/14 Trend/14E  Trends 1 1 1.md"},
+		{"id":"4e5727356d3dd926","x":541,"y":37,"width":400,"height":400,"type":"file","file":"Al Brooks Price Action Thores/12 Market Cycle/12C  Market cycle.md"},
+		{"id":"6ed8a4e40c45791a","x":-380,"y":-200,"width":250,"height":60,"type":"text","text":"Market cycle\n"},
+		{"id":"93298501cda33881","x":-40,"y":-230,"width":400,"height":61,"type":"file","file":"Al Brooks Price Action Thores/14 Trend/14A  Trends.md"}
+	],
+	"edges":[]
+}
