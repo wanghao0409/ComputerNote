@@ -48,6 +48,8 @@ git clone git@github.com:wanghao0409/ComputerNote.git
 
 git clone git@github.com:wanghao0409/ObsidianNote.git
 
+git clone git@github.com:wanghao0409/Language.git
+
 ```
 
 
