@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Al Brooks Price Action Thores/15 Breakouts/15A  Breakouts.md",
+                "file": "Al Brooks Price Action Thores/15 Breakouts/15B  Breakouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15A  Breakouts"
+              "title": "15B  Breakouts"
             }
           }
         ],
@@ -299,6 +299,8 @@
   },
   "active": "882e8ed83a9e43ae",
   "lastOpenFiles": [
+    "Al Brooks Price Action Thores/15 Breakouts/15A  Breakouts.md",
+    "Al Brooks Price Action Thores/15 Breakouts/15B  Breakouts.md",
     "编程语言/Git.md",
     "编程语言/Mermaid.md",
     "计算机基础/数据结构与算法.md",
@@ -335,8 +337,6 @@
     "Al Brooks Price Action Thores/21 Reversals/21A  Reversals.md",
     "Al Brooks Price Action Thores/20 Measured Moves/20A  Measured Moves.md",
     "Al Brooks Price Action Thores/13 Always in/13B  Always In.md",
-    "Al Brooks Price Action Thores/13 Always in/13A  Always In.md",
-    "Al Brooks Price Action Thores/19 Support and Resistance/19A  Support and Resistance.md",
     "Al Brooks Price Action Thores/21 Reversals"
   ]
 }
