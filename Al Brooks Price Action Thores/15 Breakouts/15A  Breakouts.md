@@ -14,3 +14,11 @@ what is Breakout ?
 	 一根大的趋势K线，
 	也可以是几根连续相同趋势的小K线（在更高时间周期上也是一个大趋势K线）
 
+
+
+80% rule：Most breakouts fail
+
+
+Reversal is a breakout
+
+Trading Range breakouts fail
