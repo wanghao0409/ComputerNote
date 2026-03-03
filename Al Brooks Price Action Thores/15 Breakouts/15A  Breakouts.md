@@ -22,4 +22,15 @@ what is Breakout ?
 Reversal is a breakout
 
 Trading Range breakouts fail
+<<<<<<< HEAD
 1. **突破是确认：** 大多数形态都需要一个最终的“突破”动作（如跌破楔形下轨、跌破颈线）来正式确认背景的切换。
+=======
+
+
+真突破特征：
+	突破的K线体积大
+	收在最低/最高，几乎没有影线
+	离之前的区间足够远
+	被突破的K线数量很多
+	突破K的形成有急迫感
+>>>>>>> origin/main
