@@ -22,3 +22,4 @@ what is Breakout ?
 Reversal is a breakout
 
 Trading Range breakouts fail
+1. **突破是确认：** 大多数形态都需要一个最终的“突破”动作（如跌破楔形下轨、跌破颈线）来正式确认背景的切换。

@@ -125,28 +125,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Al Brooks Price Action Thores/15 Breakouts/15A  Breakouts.md",
+                "file": "大数据/2. Hadoop&Hive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15A  Breakouts"
-            }
-          },
-          {
-            "id": "ebd7c988d4841b4a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.4"
+              "title": "2. Hadoop&Hive"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -309,16 +297,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebd7c988d4841b4a",
+  "active": "882e8ed83a9e43ae",
   "lastOpenFiles": [
+    "大数据/数据仓库笔记与技术面试问题.md",
+    "编程语言/Git.md",
+    "编程语言/Mermaid.md",
+    "编程语言/Python.md",
+    "Al Brooks Price Action Thores/15 Breakouts/15A  Breakouts.md",
     "Al Brooks Price Action Thores/15 Breakouts/15B  Breakouts.md",
     "大数据/1. 标准SQL与数据库.md",
     "大数据/1.2 SQL题库.md",
     "大数据/2. Hadoop&Hive.md",
     "大数据/4. Flink.md",
-    "Al Brooks Price Action Thores/15 Breakouts/15A  Breakouts.md",
-    "编程语言/Git.md",
-    "编程语言/Mermaid.md",
     "计算机基础/数据结构与算法.md",
     "Others/30A  Trader's Equation and Probability.md",
     "训练.md",
@@ -345,9 +335,7 @@
     "Al Brooks Price Action Thores/25 Reversals - Double Tops and Bottoms",
     "Al Brooks Price Action Thores/24 Reversals - Wedges/24A  Wedges.md",
     "Al Brooks Price Action Thores/24 Reversals - Wedges",
-    "Al Brooks Price Action Thores/23 Reversals - Final Flags/23A  Final Flags.md",
     "Al Brooks Price Action Thores/23 Reversals - Final Flags",
-    "Al Brooks Price Action Thores/22 Reversals - Major Trend Reversals/22A  Major Trend Reversals.md",
     "Al Brooks Price Action Thores/22 Reversals - Major Trend Reversals",
     "Al Brooks Price Action Thores/21 Reversals"
   ]
