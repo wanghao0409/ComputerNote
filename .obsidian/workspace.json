@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大数据/2. Hadoop&Hive.md",
+                "file": "Al Brooks Price Action Thores/20 Measured Moves/20A  Measured Moves.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Hadoop&Hive"
+              "title": "20A  Measured Moves"
             }
           }
         ],
@@ -299,8 +299,8 @@
   },
   "active": "882e8ed83a9e43ae",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "大数据/2. Hadoop&Hive.md",
+    "conflict-files-obsidian-git.md",
     "大数据/数据仓库笔记与技术面试问题.md",
     "编程语言/Git.md",
     "编程语言/Mermaid.md",
