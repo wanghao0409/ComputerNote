@@ -83,58 +83,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程语言/Python.md",
+                "file": "Al Brooks Price Action Thores/15 Breakouts/15A  Breakouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python"
-            }
-          },
-          {
-            "id": "3cc768b200791ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Others/训练.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "训练"
-            }
-          },
-          {
-            "id": "bdee6cbd7c62858c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Others/11C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11C"
-            }
-          },
-          {
-            "id": "882e8ed83a9e43ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Al Brooks Price Action Thores/总结.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "总结"
+              "title": "15A  Breakouts"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 328.5
   },
   "right": {
     "id": "13e6e67488a982d0",
@@ -297,46 +255,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "882e8ed83a9e43ae",
+  "active": "45193c4e985ba0fe",
   "lastOpenFiles": [
-    "Al Brooks Price Action Thores/训练.md",
     "Al Brooks Price Action Thores/总结.md",
-    "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting/09C  提前离场.md",
-    "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting/09B  双顶熊旗 双底牛旗.md",
-    "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting/09A  回调 数K线.md",
-    "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars/08D  高胜率买点.md",
-    "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars/08C  ib ii iii ioi.md",
-    "Al Brooks Price Action Thores 1/18 Trading Ranges/18A  Trading Ranges.md",
-    "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars/08B.md",
-    "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars/08A  K线.md",
-    "Al Brooks Price Action Thores 1/30 Trader's Equation and Probability/30A  Trader's Equation and Probability.md",
-    "Al Brooks Price Action Thores 1/7/07A.md",
-    "Al Brooks Price Action Thores 1/25 Reversals - Double Tops and Bottoms/25A  Double Tops and Bottoms.md",
-    "Al Brooks Price Action Thores 1/29 Reversals - Climaxes/29A  Climaxes.md",
-    "Al Brooks Price Action Thores 1/24 Reversals - Wedges/24A  Wedges.md",
-    "Al Brooks Price Action Thores 1/23 Reversals - Final Flags/23A  Final Flags.md",
-    "Al Brooks Price Action Thores 1/22 Reversals - Major Trend Reversals/22A  Major Trend Reversals.md",
-    "Al Brooks Price Action Thores 1/21 Reversals/21A  Reversals.md",
-    "Al Brooks Price Action Thores 1/19 Support and Resistance/19A  Support and Resistance.md",
-    "Al Brooks Price Action Thores 1/20 Measured Moves/20A  Measured Moves.md",
-    "Al Brooks Price Action Thores 1/16 Channels ★★/未命名.md",
-    "Al Brooks Price Action Thores 1/15 Breakouts/15A  Breakouts.md",
-    "Al Brooks Price Action Thores 1/15 Breakouts/15B  Breakouts.md",
-    "Al Brooks Price Action Thores 1/14 Trend/14E  Trends 1 1 1.md",
-    "Al Brooks Price Action Thores 1/14 Trend/14D  Trends 1 1.md",
-    "Al Brooks Price Action Thores 1/14 Trend/14C  Trends 1.md",
-    "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting",
-    "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars",
-    "Al Brooks Price Action Thores 1/7",
-    "Al Brooks Price Action Thores 1/30 Trader's Equation and Probability",
-    "Al Brooks Price Action Thores 1/29 Reversals - Climaxes",
-    "Al Brooks Price Action Thores 1/25 Reversals - Double Tops and Bottoms",
-    "Al Brooks Price Action Thores 1/24 Reversals - Wedges",
-    "Al Brooks Price Action Thores 1/23 Reversals - Final Flags",
-    "Al Brooks Price Action Thores 1/22 Reversals - Major Trend Reversals",
-    "Al Brooks Price Action Thores 1/21 Reversals",
-    "Al Brooks Price Action Thores/概览.canvas",
+    "Al Brooks Price Action Thores/15 Breakouts/15B  Breakouts.md",
+    "Al Brooks Price Action Thores/15 Breakouts/15A  Breakouts.md",
+    "Al Brooks Price Action Thores/12 Market Cycle/12A  Market cycle.md",
     "Pasted image 20260301233139.png",
-    "Pasted image 20260301223017.png"
+    "Al Brooks Price Action Thores/12 Market Cycle/12B  Market cycle.md",
+    "Al Brooks Price Action Thores/概览.canvas",
+    "Al Brooks Price Action Thores/训练.md",
+    "Al Brooks Price Action Thores/52 Losing When Good Trade Goes Bad",
+    "Al Brooks Price Action Thores/51 Losing Because of Mistakes",
+    "Al Brooks Price Action Thores/50 Scalping",
+    "Al Brooks Price Action Thores/49 Swing Trading Examples",
+    "Al Brooks Price Action Thores/48 Trading in Open",
+    "Al Brooks Price Action Thores/47 Trading in Trading Ranges",
+    "Al Brooks Price Action Thores/46 Trading Broad Bear Channels",
+    "Al Brooks Price Action Thores/45 Trading Broad Bull CHannels",
+    "Al Brooks Price Action Thores/44 Trading Tight Bear Channels",
+    "Al Brooks Price Action Thores/43 Trading Tight Bull Channels",
+    "Al Brooks Price Action Thores/12 Market Cycle/12C  Market cycle.md",
+    "编程语言/Python.md",
+    "Al Brooks Price Action Thores/11A 缺口.md",
+    "Al Brooks Price Action Thores/11 Gaps/11A 缺口.md",
+    "Al Brooks Price Action Thores/11 Gaps/11C.md",
+    "Al Brooks Price Action Thores/35/10A  买卖压力.md",
+    "Al Brooks Price Action Thores/34/09A  回调 数K线.md",
+    "Al Brooks Price Action Thores/35/10B  买卖压力 1.md",
+    "Al Brooks Price Action Thores/34/09C  提前离场.md",
+    "Al Brooks Price Action Thores/34/09B  双顶熊旗 双底牛旗.md",
+    "Al Brooks Price Action Thores/10 - 副本/10B  买卖压力 1.md",
+    "Al Brooks Price Action Thores/10 - 副本/10A  买卖压力.md",
+    "Al Brooks Price Action Thores/9 - 副本/09C  提前离场.md",
+    "Al Brooks Price Action Thores/9 - 副本/09B  双顶熊旗 双底牛旗.md",
+    "Al Brooks Price Action Thores/9 - 副本/09A  回调 数K线.md",
+    "Al Brooks Price Action Thores/25 Reversals - Double Tops and Bottoms/25A  Double Tops and Bottoms.md",
+    "Al Brooks Price Action Thores/29 Reversals - Climaxes/29A  Climaxes.md",
+    "Al Brooks Price Action Thores/24 Reversals - Wedges/24A  Wedges.md",
+    "Al Brooks Price Action Thores/21 Reversals/21A  Reversals.md",
+    "Al Brooks Price Action Thores/23 Reversals - Final Flags/23A  Final Flags.md",
+    "Pasted image 20260301223017.png",
+    "Pasted image 20260301222912.png"
   ]
 }
