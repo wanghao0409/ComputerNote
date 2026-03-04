@@ -2,9 +2,12 @@
 # 18A
 
 
-## definition of pullback and Trading Range
+## Definition of pullback and Trading Range
 
-## hallmarks: confusion, disappointment
+Area of agreement between bulls and bears
+多空双方达成共识的区域
+
+## Hallmarks: Confusion, Disappointment
 
 
 
