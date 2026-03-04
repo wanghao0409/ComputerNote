@@ -1,11 +1,11 @@
 
-what is Breakout ?
+# what is Breakout ?
 
 
 
 突破总是指 价格突破支撑或阻力位
 	突破前一根K线的高点
-	突破上传移动平均线MA
+	突破上穿移动平均线MA
 	突破上穿了趋势线
 	突破了前一个更低的高点
 	突破了交易区间TR
@@ -16,13 +16,15 @@ what is Breakout ?
 
 
 
-80% rule：Most breakouts fail
+## 80% rule：Most breakouts fail
 
 
-Reversal is a breakout
+# Reversal is a breakout
 
-Trading Range breakouts fail
-<<<<<<< HEAD
+
+
+# Trading Range breakouts fail
+
 1. **突破是确认：** 大多数形态都需要一个最终的“突破”动作（如跌破楔形下轨、跌破颈线）来正式确认背景的切换。
 =======
 
@@ -33,4 +35,4 @@ Trading Range breakouts fail
 	离之前的区间足够远
 	被突破的K线数量很多
 	突破K的形成有急迫感
->>>>>>> origin/main
+
