@@ -31,3 +31,8 @@ Area of agreement between bulls and bears
 ## Trend resumption or reversal
 
 ## Trend or leg in TR
+
+
+# 18D 
+## Tight Trading Range 
+紧密交易区间
