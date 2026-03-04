@@ -36,3 +36,9 @@ Area of agreement between bulls and bears
 # 18D 
 ## Tight Trading Range 
 紧密交易区间
+
+
+# 18E
+## What is vacuum effect
+
+## Perverse logic: Fade BO
