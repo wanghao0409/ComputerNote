@@ -42,3 +42,11 @@ Area of agreement between bulls and bears
 ## What is vacuum effect
 
 ## Perverse logic: Fade BO
+
+
+# 18F 
+## Trading Range: Don't bet on breakout
+
+## Breakout into trend
+
+## Early signs of TR
