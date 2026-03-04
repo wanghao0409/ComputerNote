@@ -4,6 +4,7 @@
 
 ## Definition of pullback and Trading Range
 
+
 Area of agreement between bulls and bears
 多空双方达成共识的区域
 
@@ -11,6 +12,6 @@ Area of agreement between bulls and bears
 
 
 
-18B
+# 18B
 
 
