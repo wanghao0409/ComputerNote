@@ -16,3 +16,11 @@ Area of agreement between bulls and bears
 # 18B
 
 
+TR contains buy and sell setups
+
+
+
+BOM(BreakOut Mode)
+
+
+second Leg Trap
