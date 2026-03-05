@@ -18,3 +18,15 @@
 
 ## Double Top and Bottom Flags
 
+
+
+
+# 25B
+
+## Tests of support and resistance
+
+
+## Faailed Double Tops and Bottoms
+
+
+## Measured Moves
