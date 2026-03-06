@@ -38,13 +38,13 @@
 # 21C
 
 
-## Most reversals are double top and bottom
+
 
 
 
 # 21D
 
-
+## Most reversals are double top and bottom
 
 
 
