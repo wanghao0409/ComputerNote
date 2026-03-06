@@ -23,6 +23,9 @@
 
 ## Reversal is earliest entry
 
+
+反转是最早的入场时机
+
 ## 80%
 
 ## Cup and Handle
