@@ -26,7 +26,9 @@
 
 反转是最早的入场时机
 
-## 80%
+## 80% of trend reversal attempts fail
+
+
 
 ## Cup and Handle
 
