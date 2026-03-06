@@ -13,72 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Al Brooks Price Action Theory/29 Reversals - Climaxes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
-            }
-          },
-          {
-            "id": "55472aa1edfe479d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python"
-            }
-          },
-          {
-            "id": "f685f92545bac98b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_SQL与数据库/1_SQL基础知识.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1_SQL基础知识"
-            }
-          },
-          {
-            "id": "314732118751b37a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python"
-            }
-          },
-          {
-            "id": "74d0f3d8a952a001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Al Brooks Price Action Theory/训练.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "训练"
+              "title": "29 Reversals - Climaxes"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,20 +80,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/30A  Trader's Equation and Probability.md",
+                "file": "Al Brooks Price Action Theory/29 Reversals - Climaxes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "30A  Trader's Equation and Probability 的大纲"
+              "title": "29 Reversals - Climaxes 的大纲"
+            }
+          },
+          {
+            "id": "8ae66341436c762f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Al Brooks Price Action Theory/17 Tight and Micro Channels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17 Tight and Micro Channels"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 300
   },
   "right": {
     "id": "13e6e67488a982d0",
@@ -241,47 +198,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74d0f3d8a952a001",
+  "active": "06e8533f705a8ef3",
   "lastOpenFiles": [
-    "Al Brooks Price Action Theory/知乎思考.md",
-    "Al Brooks Price Action Theory/总结.md",
     "Al Brooks Price Action Theory/26 Reversals - Triangles.md",
-    "Al Brooks Price Action Theory/25 Reversals - Double Tops and Bottoms.md",
-    "Al Brooks Price Action Theory/24 Reversals - Wedges.md",
-    "Al Brooks Price Action Theory/29 Reversals - Climaxes.md",
-    "Al Brooks Price Action Theory/16 Channels ★★.md",
-    "Al Brooks Price Action Theory/17 Tight and Micro Channels.md",
-    "Al Brooks Price Action Theory/18 Trading Ranges.md",
-    "Al Brooks Price Action Theory/15 Breakouts.md",
-    "Al Brooks Price Action Theory/19 Support and Resistance.md",
-    "Al Brooks Price Action Theory/20 Measured Moves.md",
-    "Al Brooks Price Action Theory/22 Reversals - Major Trend Reversals.md",
-    "Al Brooks Price Action Theory/12  Market cycle.md",
     "Al Brooks Price Action Theory/23 Reversals - Final Flags.md",
-    "Al Brooks Price Action Theory/21 Reversals.md",
+    "Al Brooks Price Action Theory/22 Reversals - Major Trend Reversals.md",
+    "Al Brooks Price Action Theory/25 Reversals - Double Tops and Bottoms.md",
     "Al Brooks Price Action Theory/训练.md",
-    "Linux系统/Linux 基础及常用命令.md",
-    "conflict-files-obsidian-git.md",
-    "Al Brooks Price Action Thores/15 Breakouts/15A  Breakouts.md",
-    "训练.md",
-    "Al Brooks Price Action Theory/30 Trader's Equation and Probability.md",
-    "Al Brooks Price Action Theory/14 Trends.md",
-    "Al Brooks Price Action Theory/10 Buy and Sell pressure.md",
-    "Al Brooks Price Action Theory/13  Always In ★★.md",
+    "Al Brooks Price Action Theory/总结.md",
+    "Al Brooks Price Action Theory/08 Candles,Setups and Signal Bars.md",
+    "Al Brooks Price Action Theory/07A.md",
     "Al Brooks Price Action Theory/09 Pullbacks and Bar Counting.md",
-    "Al Brooks Price Action Theory",
-    "Pasted image 20260301233139.png",
+    "Al Brooks Price Action Thores/9 Pullbacks and Bar Counting/09B  双顶熊旗 双底牛旗.md",
+    "Al Brooks Price Action Theory/11 Gaps.md",
+    "Al Brooks Price Action Thores/9 Pullbacks and Bar Counting/09C  提前离场.md",
+    "Al Brooks Price Action Theory/10 Buy and Sell pressure.md",
+    "Al Brooks Price Action Theory/12  Market cycle.md",
+    "Al Brooks Price Action Theory/13  Always In ★★.md",
+    "Al Brooks Price Action Thores/13 Always in/13A  Always In.md",
+    "Al Brooks Price Action Thores/13 Always in/13B  Always In.md",
+    "Al Brooks Price Action Thores/11 Gaps/11C.md",
+    "Al Brooks Price Action Theory/14 Trends.md",
+    "Al Brooks Price Action Thores/8 Candles,Setups and Signal Bars/08B.md",
+    "Al Brooks Price Action Thores/8 Candles,Setups and Signal Bars/08D  高胜率买点.md",
+    "Al Brooks Price Action Thores/8 Candles,Setups and Signal Bars/08C  ib ii iii ioi.md",
+    "Al Brooks Price Action Thores/14 Trend/14E  Trends 1 1 1.md",
+    "Al Brooks Price Action Thores/14 Trend/14D  Trends 1 1.md",
+    "Al Brooks Price Action Thores/14 Trend/14C  Trends 1.md",
+    "Al Brooks Price Action Theory/15 Breakouts.md",
+    "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting",
+    "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars",
+    "Al Brooks Price Action Thores 1/7",
+    "Al Brooks Price Action Thores 1/30 Trader's Equation and Probability",
+    "Al Brooks Price Action Thores 1/29 Reversals - Climaxes",
+    "Al Brooks Price Action Thores 1/25 Reversals - Double Tops and Bottoms",
+    "Al Brooks Price Action Thores 1/24 Reversals - Wedges",
+    "Al Brooks Price Action Thores 1/23 Reversals - Final Flags",
+    "Al Brooks Price Action Thores 1/22 Reversals - Major Trend Reversals",
+    "Al Brooks Price Action Thores 1/21 Reversals",
     "Al Brooks Price Action Thores/概览.canvas",
-    "Al Brooks Price Action Thores/52 Losing When Good Trade Goes Bad",
-    "Al Brooks Price Action Thores/51 Losing Because of Mistakes",
-    "Al Brooks Price Action Thores/50 Scalping",
-    "Al Brooks Price Action Thores/49 Swing Trading Examples",
-    "Al Brooks Price Action Thores/48 Trading in Open",
-    "Al Brooks Price Action Thores/47 Trading in Trading Ranges",
-    "Al Brooks Price Action Thores/46 Trading Broad Bear Channels",
-    "Al Brooks Price Action Thores/45 Trading Broad Bull CHannels",
-    "Al Brooks Price Action Thores/44 Trading Tight Bear Channels",
-    "Pasted image 20260301223017.png",
-    "Pasted image 20260301222912.png"
+    "Pasted image 20260301233139.png",
+    "Pasted image 20260301223017.png"
   ]
 }
