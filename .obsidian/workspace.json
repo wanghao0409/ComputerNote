@@ -80,13 +80,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Al Brooks Price Action Theory/29 Reversals - Climaxes.md",
+                "file": "Al Brooks Price Action Theory/总结.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "29 Reversals - Climaxes 的大纲"
+              "title": "总结 的大纲"
             }
           },
           {
@@ -103,7 +103,8 @@
               "title": "17 Tight and Micro Channels"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -198,7 +199,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "06e8533f705a8ef3",
+  "active": "31ee5dccd9619a40",
   "lastOpenFiles": [
     "Al Brooks Price Action Theory/知乎思考.md",
     "Al Brooks Price Action Theory/总结.md",
