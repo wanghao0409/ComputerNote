@@ -5,3 +5,8 @@
 
 
 
+## MTR is most important reversal pattern
+
+# 22B
+
+## successful LH MTR
