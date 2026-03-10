@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Al Brooks Price Action Theory/15 Breakouts.md",
+                "file": "训练.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15 Breakouts"
+              "title": "训练"
+            }
+          },
+          {
+            "id": "544438a007ddc1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Windows系统/命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "命令"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Al Brooks Price Action Theory/15 Breakouts.md",
+                "file": "Windows系统/命令.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "15 Breakouts 的大纲"
+              "title": "命令 的大纲"
             }
           },
           {
@@ -103,8 +118,7 @@
               "title": "17 Tight and Micro Channels"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,8 +213,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31ee5dccd9619a40",
+  "active": "5357f2ff59ee7196",
   "lastOpenFiles": [
+    "训练.md",
+    "Windows系统/命令.md",
+    "Windows系统",
+    "Pasted image 20260301223017.png",
+    "计算机基础/数据结构与算法.md",
+    "Al Brooks Price Action Theory/15 Breakouts.md",
     "Al Brooks Price Action Theory/总结.md",
     "Al Brooks Price Action Theory/22 Reversals - Major Trend Reversals.md",
     "Al Brooks Price Action Theory/21 Reversals.md",
@@ -223,10 +243,6 @@
     "Al Brooks Price Action Thores/13 Always in/13A  Always In.md",
     "Al Brooks Price Action Thores/13 Always in/13B  Always In.md",
     "Al Brooks Price Action Thores/11 Gaps/11C.md",
-    "Al Brooks Price Action Theory/14 Trends.md",
-    "Al Brooks Price Action Thores/8 Candles,Setups and Signal Bars/08B.md",
-    "Al Brooks Price Action Thores/8 Candles,Setups and Signal Bars/08D  高胜率买点.md",
-    "Al Brooks Price Action Thores/8 Candles,Setups and Signal Bars/08C  ib ii iii ioi.md",
     "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting",
     "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars",
     "Al Brooks Price Action Thores 1/7",
@@ -236,9 +252,7 @@
     "Al Brooks Price Action Thores 1/24 Reversals - Wedges",
     "Al Brooks Price Action Thores 1/23 Reversals - Final Flags",
     "Al Brooks Price Action Thores 1/22 Reversals - Major Trend Reversals",
-    "Al Brooks Price Action Thores 1/21 Reversals",
     "Al Brooks Price Action Thores/概览.canvas",
-    "Pasted image 20260301233139.png",
-    "Pasted image 20260301223017.png"
+    "Pasted image 20260301233139.png"
   ]
 }
