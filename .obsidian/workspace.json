@@ -13,58 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "训练.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git"
+              "title": "训练"
             }
           },
           {
-            "id": "55472aa1edfe479d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python"
-            }
-          },
-          {
-            "id": "f685f92545bac98b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1_SQL与数据库/1_SQL基础知识.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1_SQL基础知识"
-            }
-          },
-          {
-            "id": "314732118751b37a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python"
-            }
-          },
-          {
-            "id": "74d0f3d8a952a001",
+            "id": "544438a007ddc1ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -145,13 +103,27 @@
               "icon": "lucide-list",
               "title": "总结 的大纲"
             }
+          },
+          {
+            "id": "8ae66341436c762f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Al Brooks Price Action Theory/17 Tight and Micro Channels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17 Tight and Micro Channels"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 300
   },
   "right": {
     "id": "13e6e67488a982d0",
@@ -222,9 +194,19 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "bd7497086a5ef713",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -242,47 +224,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74d0f3d8a952a001",
+  "active": "31ee5dccd9619a40",
   "lastOpenFiles": [
+    "Al Brooks Price Action Theory/训练.md",
+    "Al Brooks Price Action Theory/15 Breakouts.md",
+    "conflict-files-obsidian-git.md",
     "Z_电脑工具/Typora.md",
-    "Z_电脑工具",
-    "C_大数据/数据治理.md",
-    "C_大数据/数据治理.docx",
-    "C_大数据/数据仓库笔记与技术面试问题.md",
-    "C_大数据/SQL调优.xmind",
-    "C_大数据/Hive.xmind",
-    "C_大数据/Hadoop.xmind",
-    "C_大数据/5. Kafka.md",
-    "C_大数据/4. Flink.md",
-    "C_大数据/3. Spark.md",
-    "C_大数据/2. Hadoop&Hive.md",
-    "C_大数据/1.2 SQL题库.md",
-    "C_大数据/1.3 SQL执行计划和调优.md",
-    "C_大数据/0 大数据理论及其发展.md",
-    "C_大数据/1. 标准SQL与数据库.md",
-    "C_大数据",
-    "B_编程语言/Python.md",
-    "B_编程语言/Mermaid.md",
-    "B_编程语言/Git.md",
-    "B_编程语言",
-    "A_计算机基础/数据结构与算法.md",
-    "A_计算机基础/计算机网络.md",
-    "A_计算机基础/操作系统.md",
-    "A_计算机基础",
+    "Key.md",
+    "未命名.base",
+    "未命名 1.base",
+    "Al Brooks Price Action Theory/14 Trends.md",
+    "训练.md",
     "Windows系统/命令.md",
+    "Z_电脑工具",
     "Windows系统",
-    "Al Brooks Price Action Theory/知乎思考.md",
-    "Al Brooks Price Action Theory/21 Reversals.md",
+    "Pasted image 20260301223017.png",
+    "A_计算机基础/数据结构与算法.md",
+    "Al Brooks Price Action Theory/总结.md",
     "Al Brooks Price Action Theory/22 Reversals - Major Trend Reversals.md",
-    "Al Brooks Price Action Theory/24 Reversals - Wedges.md",
+    "Al Brooks Price Action Theory/21 Reversals.md",
+    "Al Brooks Price Action Theory/知乎思考.md",
+    "Al Brooks Price Action Theory/20 Measured Moves.md",
     "Al Brooks Price Action Theory/26 Reversals - Triangles.md",
     "Al Brooks Price Action Theory/29 Reversals - Climaxes.md",
-    "Al Brooks Price Action Theory/总结.md",
-    "Al Brooks Price Action Theory/19 Support and Resistance.md",
-    "Al Brooks Price Action Theory",
-    "Pasted image 20260301233139.png",
+    "Al Brooks Price Action Theory/23 Reversals - Final Flags.md",
+    "Al Brooks Price Action Theory/25 Reversals - Double Tops and Bottoms.md",
+    "Al Brooks Price Action Theory/08 Candles,Setups and Signal Bars.md",
+    "Al Brooks Price Action Theory/07A.md",
+    "Al Brooks Price Action Theory/09 Pullbacks and Bar Counting.md",
+    "Al Brooks Price Action Thores/9 Pullbacks and Bar Counting/09B  双顶熊旗 双底牛旗.md",
+    "Al Brooks Price Action Theory/11 Gaps.md",
+    "Al Brooks Price Action Thores/9 Pullbacks and Bar Counting/09C  提前离场.md",
+    "Al Brooks Price Action Theory/10 Buy and Sell pressure.md",
+    "Al Brooks Price Action Theory/12  Market cycle.md",
+    "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting",
+    "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars",
+    "Al Brooks Price Action Thores 1/7",
+    "Al Brooks Price Action Thores 1/30 Trader's Equation and Probability",
+    "Al Brooks Price Action Thores 1/29 Reversals - Climaxes",
+    "Al Brooks Price Action Thores 1/25 Reversals - Double Tops and Bottoms",
     "Al Brooks Price Action Thores/概览.canvas",
-    "Pasted image 20260301223017.png",
-    "Pasted image 20260301222912.png"
+    "Pasted image 20260301233139.png"
   ]
 }
