@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Al Brooks Price Action Theory/15 Breakouts.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "15 Breakouts 的大纲"
+              "title": "conflict-files-obsidian-git 的大纲"
             }
           },
           {
@@ -223,10 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "544438a007ddc1ae",
+  "active": "bd7497086a5ef713",
   "lastOpenFiles": [
-    "Z_电脑工具/Typora.md",
+    "conflict-files-obsidian-git.md",
     "Al Brooks Price Action Theory/15 Breakouts.md",
+    "Z_电脑工具/Typora.md",
     "Key.md",
     "未命名.base",
     "未命名 1.base",
