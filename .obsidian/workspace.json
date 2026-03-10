@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "Key"
             }
-          },
-          {
-            "id": "26492f6e0254ceca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Al Brooks Price Action Theory/14 Trends.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14 Trends"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Al Brooks Price Action Theory/14 Trends.md",
+                "file": "Key.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "14 Trends 的大纲"
+              "title": "Key 的大纲"
             }
           },
           {
@@ -237,8 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5357f2ff59ee7196",
+  "active": "544438a007ddc1ae",
   "lastOpenFiles": [
+    "未命名 1.base",
+    "未命名.base",
+    "Al Brooks Price Action Theory/14 Trends.md",
     "Al Brooks Price Action Theory/训练.md",
     "Al Brooks Price Action Theory/15 Breakouts.md",
     "训练.md",
@@ -266,8 +255,6 @@
     "Al Brooks Price Action Thores/9 Pullbacks and Bar Counting/09C  提前离场.md",
     "Al Brooks Price Action Theory/10 Buy and Sell pressure.md",
     "Al Brooks Price Action Theory/12  Market cycle.md",
-    "Al Brooks Price Action Theory/13  Always In ★★.md",
-    "Al Brooks Price Action Thores/13 Always in/13A  Always In.md",
     "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting",
     "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars",
     "Al Brooks Price Action Thores 1/7",
@@ -275,7 +262,6 @@
     "Al Brooks Price Action Thores 1/29 Reversals - Climaxes",
     "Al Brooks Price Action Thores 1/25 Reversals - Double Tops and Bottoms",
     "Al Brooks Price Action Thores 1/24 Reversals - Wedges",
-    "Al Brooks Price Action Thores 1/23 Reversals - Final Flags",
     "Al Brooks Price Action Thores/概览.canvas",
     "Pasted image 20260301233139.png"
   ]
