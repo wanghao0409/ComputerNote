@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Al Brooks Price Action Theory/15 Breakouts.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "15 Breakouts 的大纲"
             }
           },
           {
@@ -118,7 +118,8 @@
               "title": "17 Tight and Micro Channels"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd7497086a5ef713",
+  "active": "31ee5dccd9619a40",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Al Brooks Price Action Theory/15 Breakouts.md",
