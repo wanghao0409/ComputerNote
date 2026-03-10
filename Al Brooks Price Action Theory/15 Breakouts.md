@@ -22,7 +22,7 @@
 ## 2. 80% rule：Most breakouts fail
 
 
-## Reversal is a breakout
+## 3. Reversal is a breakout
 
 
 
