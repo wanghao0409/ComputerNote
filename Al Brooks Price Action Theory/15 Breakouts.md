@@ -1,24 +1,24 @@
 
 # 15A 
-## what is Breakout ?
+## 1. what is Breakout ?
 
 
-### 定义
+### 1.1 定义
 突破总是指 价格==突破支撑或阻力位==
 	突破前一根K线的高点
 	突破上穿移动平均线MA
 	突破上穿了趋势线
-	突破了前一个更低的高点
+	突破了前一个较低的高点
 	突破了交易区间TR
 
-### 形态：
+### 1.2 形态：
 突破既可以是
 	 一根大的趋势K线，
 	也可以是几根连续相同趋势的小K线（在更高时间周期上也是一个大趋势K线）
 
 
 
-## 80% rule：Most breakouts fail
+## 2. 80% rule：Most breakouts fail
 
 
 ## Reversal is a breakout
