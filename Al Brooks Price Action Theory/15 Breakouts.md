@@ -34,7 +34,7 @@
 ## 1.**Breakout needs comfirmation:**
 	Follow-through
 
-
+  突破通常需要第二根K线确认
 
 真突破特征：
 	突破的K线体积大
