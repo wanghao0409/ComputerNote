@@ -118,7 +118,8 @@
               "title": "17 Tight and Micro Channels"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -223,7 +224,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "544438a007ddc1ae",
+  "active": "31ee5dccd9619a40",
   "lastOpenFiles": [
     "C_大数据/1.3 SQL执行计划和调优.md",
     "C_大数据/1. 标准SQL与数据库.md",
