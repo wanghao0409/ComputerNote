@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Al Brooks Price Action Theory/15 Breakouts.md",
+                "file": "FinanceNote/券商业务.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "15 Breakouts 的大纲"
+              "title": "券商业务 的大纲"
             }
           },
           {
@@ -132,7 +132,8 @@
               "title": "17 Tight and Micro Channels"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -237,7 +238,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64bcf2f2de6faf36",
+  "active": "31ee5dccd9619a40",
   "lastOpenFiles": [
     "Al Brooks Price Action Theory/15 Breakouts.md",
     "FinanceNote/券商业务.md",
