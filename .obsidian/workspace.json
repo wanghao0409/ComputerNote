@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Al Brooks Price Action Theory/知乎思考.md",
+                "file": "Al Brooks Price Action Theory/15 Breakouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "知乎思考"
+              "title": "15 Breakouts"
             }
           }
         ],
@@ -95,13 +95,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Al Brooks Price Action Theory/知乎思考.md",
+                "file": "Al Brooks Price Action Theory/15 Breakouts.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "知乎思考 的大纲"
+              "title": "15 Breakouts 的大纲"
             }
           },
           {
@@ -223,26 +223,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "544438a007ddc1ae",
+  "active": "bd7497086a5ef713",
   "lastOpenFiles": [
-    "Al Brooks Price Action Theory/总结.md",
     "FinanceNote/券商业务.md",
-    "C_大数据/3. Spark.md",
-    "C_大数据/5. Kafka.md",
-    "C_大数据/4. Flink.md",
-    "C_大数据/1. 标准SQL与数据库.md",
-    "C_大数据/1.3 SQL执行计划和调优.md",
-    "C_大数据/2. Hadoop&Hive.md",
-    "C_大数据/1.2 SQL题库.md",
-    "C_大数据/0 大数据理论及其发展.md",
-    "A_计算机基础/操作系统.md",
-    "A_计算机基础/计算机网络.md",
-    "B_编程语言/Git.md",
-    "B_编程语言/Python.md",
-    "B_编程语言/Mermaid.md",
-    "Al Brooks Price Action Theory/15 Breakouts.md",
     "FinanceNote",
+    "Al Brooks Price Action Theory/总结.md",
     "Al Brooks Price Action Theory/训练.md",
+    "Al Brooks Price Action Theory/15 Breakouts.md",
     "conflict-files-obsidian-git.md",
     "Z_电脑工具/Typora.md",
     "Key.md",
@@ -257,6 +244,19 @@
     "A_计算机基础/数据结构与算法.md",
     "Al Brooks Price Action Theory/22 Reversals - Major Trend Reversals.md",
     "Al Brooks Price Action Theory/21 Reversals.md",
+    "Al Brooks Price Action Theory/知乎思考.md",
+    "Al Brooks Price Action Theory/20 Measured Moves.md",
+    "Al Brooks Price Action Theory/26 Reversals - Triangles.md",
+    "Al Brooks Price Action Theory/29 Reversals - Climaxes.md",
+    "Al Brooks Price Action Theory/23 Reversals - Final Flags.md",
+    "Al Brooks Price Action Theory/25 Reversals - Double Tops and Bottoms.md",
+    "Al Brooks Price Action Theory/08 Candles,Setups and Signal Bars.md",
+    "Al Brooks Price Action Theory/07A.md",
+    "Al Brooks Price Action Theory/09 Pullbacks and Bar Counting.md",
+    "Al Brooks Price Action Thores/9 Pullbacks and Bar Counting/09B  双顶熊旗 双底牛旗.md",
+    "Al Brooks Price Action Theory/11 Gaps.md",
+    "Al Brooks Price Action Thores/9 Pullbacks and Bar Counting/09C  提前离场.md",
+    "Al Brooks Price Action Theory/10 Buy and Sell pressure.md",
     "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting",
     "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars",
     "Al Brooks Price Action Thores 1/7",
