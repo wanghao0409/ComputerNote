@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "claude code 使用"
             }
+          },
+          {
+            "id": "3fa123db970a8d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,10 +251,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da88d91d97eb4a24",
+  "active": "3fa123db970a8d97",
   "lastOpenFiles": [
-    "B_编程语言/Git.md",
     "AI/claude code 使用.md",
+    "未命名.md",
+    "B_编程语言/Git.md",
     "AI",
     "训练.md",
     "B_编程语言/Python.md",
@@ -271,7 +286,6 @@
     "Z_电脑工具",
     "Windows系统",
     "Pasted image 20260301223017.png",
-    "A_计算机基础/数据结构与算法.md",
     "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting",
     "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars",
     "Al Brooks Price Action Thores 1/7",
