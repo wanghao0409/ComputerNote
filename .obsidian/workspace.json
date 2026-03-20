@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Key.md",
+                "file": "训练.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Key"
+              "title": "训练"
             }
           }
         ],
@@ -226,6 +226,8 @@
   "active": "544438a007ddc1ae",
   "lastOpenFiles": [
     "B_编程语言/Python.md",
+    "B_编程语言/Mermaid.md",
+    "Key.md",
     "conflict-files-obsidian-git.md",
     "Al Brooks Price Action Theory/知乎思考.md",
     "Al Brooks Price Action Theory/总结.md",
@@ -241,12 +243,10 @@
     "A_计算机基础/操作系统.md",
     "A_计算机基础/计算机网络.md",
     "B_编程语言/Git.md",
-    "B_编程语言/Mermaid.md",
     "Al Brooks Price Action Theory/15 Breakouts.md",
     "FinanceNote",
     "Al Brooks Price Action Theory/训练.md",
     "Z_电脑工具/Typora.md",
-    "Key.md",
     "未命名.base",
     "未命名 1.base",
     "Al Brooks Price Action Theory/14 Trends.md",
