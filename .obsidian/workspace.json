@@ -146,8 +146,7 @@
               "title": "17 Tight and Micro Channels"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,7 +251,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "31ee5dccd9619a40",
+  "active": "5357f2ff59ee7196",
   "lastOpenFiles": [
     "B_编程语言/markdown.md",
     "B_编程语言/Git.md",
