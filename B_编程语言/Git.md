@@ -15,13 +15,14 @@ git init
 ### 暂存区
 
 ```shell
-git add 
+git add . # 提交所有文件到暂存区
+git add * # 不包含.开头的隐藏文件
 ```
 
 ### 本地仓库
 
 ```shell
-git commit 
+git commit -m '提交信息'
 ```
 
 
@@ -35,6 +36,18 @@ git commit
 
 git push 
 ```
+
+### 分支管理
+```shell
+git branch  # 查看本地有哪些分支
+
+git branch -r # 查看远程分支
+
+git checkout dev # 切换至某个分支
+```
+
+
+1
 
 ## 二. 从远处仓库开始
 
