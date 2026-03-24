@@ -1,28 +1,14 @@
 {
   "main": {
-    "id": "06fe4180514edc6d",
+    "id": "f0544fea8d3b1d60",
     "type": "split",
     "children": [
       {
-        "id": "99c27ad7ed188549",
+        "id": "d98a16e55d273485",
         "type": "tabs",
         "children": [
           {
-            "id": "06e8533f705a8ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "训练.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "训练"
-            }
-          },
-          {
-            "id": "544438a007ddc1ae",
+            "id": "e5eee521a0674091",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,64 +20,35 @@
               "icon": "lucide-file",
               "title": "Git"
             }
-          },
-          {
-            "id": "da88d91d97eb4a24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/claude code 使用.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "claude code 使用"
-            }
-          },
-          {
-            "id": "3fa123db970a8d97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Z_电脑工具/Typora.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Typora"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4a4e8fbc5912166c",
+    "id": "f4deb145a2c68b0e",
     "type": "split",
     "children": [
       {
-        "id": "921e95e7eb12842f",
+        "id": "c8296250f133788c",
         "type": "tabs",
         "children": [
           {
-            "id": "5357f2ff59ee7196",
+            "id": "f25cf2e1401902a1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "526e6fab5592f122",
+            "id": "5b58b4607fec1144",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -108,42 +65,13 @@
             }
           },
           {
-            "id": "5a3faa1122ea901d",
+            "id": "4da837a6d6a4a277",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
-            }
-          },
-          {
-            "id": "31ee5dccd9619a40",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "B_编程语言/Git.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Git 的大纲"
-            }
-          },
-          {
-            "id": "8ae66341436c762f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Al Brooks Price Action Theory/17 Tight and Micro Channels.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17 Tight and Micro Channels"
             }
           }
         ]
@@ -153,22 +81,22 @@
     "width": 300
   },
   "right": {
-    "id": "13e6e67488a982d0",
+    "id": "eda831aa6d58238a",
     "type": "split",
     "children": [
       {
-        "id": "7639ba321775a29b",
+        "id": "abde24524c154cbc",
         "type": "tabs",
         "children": [
           {
-            "id": "bcf049e4fa3fa8b3",
+            "id": "f8fc17e77b578886",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "B_编程语言/Git.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -180,12 +108,12 @@
             }
           },
           {
-            "id": "770fa05894d72bb8",
+            "id": "cc9437c97fbe6202",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "B_编程语言/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -194,7 +122,7 @@
             }
           },
           {
-            "id": "f046805c93768de4",
+            "id": "fc87ec7fd421d6d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -209,7 +137,7 @@
             }
           },
           {
-            "id": "7a79c00f44e82e41",
+            "id": "04d849c67e9ed184",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -223,74 +151,46 @@
             }
           },
           {
-            "id": "bd7497086a5ef713",
+            "id": "66ebdc06e1c84c58",
             "type": "leaf",
             "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "type": "outline",
+              "state": {
+                "file": "B_编程语言/Git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Git 的大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "bases:新建数据库": false
     }
   },
-  "active": "3fa123db970a8d97",
+  "active": "e5eee521a0674091",
   "lastOpenFiles": [
-    "B_编程语言/markdown.md",
     "B_编程语言/Mermaid.md",
-    "B_编程语言/Git.md",
-    "B_编程语言/Python.md",
-    "AI/大模型.md",
-    "AI/claude code 使用.md",
-    "Key.md",
-    "conflict-files-obsidian-git.md",
-    "AI",
-    "训练.md",
-    "Al Brooks Price Action Theory/知乎思考.md",
-    "Al Brooks Price Action Theory/总结.md",
     "FinanceNote/券商业务.md",
-    "C_大数据/3. Spark.md",
-    "C_大数据/5. Kafka.md",
-    "C_大数据/4. Flink.md",
-    "C_大数据/1. 标准SQL与数据库.md",
-    "C_大数据/1.3 SQL执行计划和调优.md",
-    "C_大数据/2. Hadoop&Hive.md",
-    "C_大数据/1.2 SQL题库.md",
-    "C_大数据/0 大数据理论及其发展.md",
-    "A_计算机基础/操作系统.md",
-    "A_计算机基础/计算机网络.md",
-    "Al Brooks Price Action Theory/15 Breakouts.md",
-    "FinanceNote",
-    "Al Brooks Price Action Theory/训练.md",
+    "Al Brooks Price Action Theory/08 Candles,Setups and Signal Bars.md",
+    "AI/claude code 使用.md",
+    "AI/大模型.md",
     "Z_电脑工具/Typora.md",
-    "未命名.base",
-    "未命名 1.base",
-    "Al Brooks Price Action Theory/14 Trends.md",
-    "Z_电脑工具",
-    "Windows系统",
-    "Pasted image 20260301223017.png",
-    "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting",
-    "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars",
-    "Al Brooks Price Action Thores 1/7",
-    "Al Brooks Price Action Thores 1/30 Trader's Equation and Probability",
-    "Al Brooks Price Action Thores/概览.canvas",
-    "Pasted image 20260301233139.png"
+    "conflict-files-obsidian-git.md"
   ]
 }
