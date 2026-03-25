@@ -1,0 +1,15 @@
+/* 1. 调整编辑模式（你在打字时）的行距 */
+.markdown-source-view.mod-cm6 .cm-line {
+    line-height: 1.8; /* 默认通常是 1.5，数值越大行距越大 */
+}
+
+/* 2. 调整阅读模式（预览时）的行距 */
+.markdown-reading-view {
+    line-height: 1.8; /* 阅读视图的行距 */
+}
+
+/* 3. 如果你使用实时预览，也可以单独调整段落间距（可选） */
+.cm-line {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
