@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux系统/Linux 基础及常用命令.md",
+                "file": "AI/大模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux 基础及常用命令"
+              "title": "大模型"
             }
           }
         ],
@@ -225,13 +225,14 @@
   },
   "active": "544438a007ddc1ae",
   "lastOpenFiles": [
+    "B_编程语言/Python.md",
+    "Linux系统/Linux 基础及常用命令.md",
     "C_大数据/2. Hadoop&Hive.md",
     "C_大数据/3. Spark.md",
     "Linux系统/Shell.md",
     "C_大数据/5. Kafka.md",
     "C_大数据/1.2 SQL题库.md",
     "C_大数据/1.3 SQL执行计划和调优.md",
-    "Linux系统/Linux 基础及常用命令.md",
     "Linux系统/功能学习.md",
     "B_编程语言/Git.md",
     "A_ComputerBasicKnowledge/计算机网络.md",
@@ -255,7 +256,6 @@
     "未命名.base",
     "未命名 1.base",
     "Al Brooks Price Action Theory/14 Trends.md",
-    "训练.md",
     "Z_电脑工具",
     "Windows系统",
     "Pasted image 20260301223017.png",
