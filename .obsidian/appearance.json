@@ -2,5 +2,8 @@
   "theme": "moonstone",
   "cssTheme": "Typora-Vue",
   "interfaceFontFamily": "微软雅黑",
-  "monospaceFontFamily": "Consolas"
+  "monospaceFontFamily": "Consolas",
+  "enabledCssSnippets": [
+    "custom-underline"
+  ]
 }

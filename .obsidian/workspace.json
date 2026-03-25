@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux系统/Linux 基础及常用命令.md",
+                "file": "AI/大模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux 基础及常用命令"
+              "title": "大模型"
             }
           }
         ]
@@ -186,17 +186,19 @@
   },
   "active": "e5eee521a0674091",
   "lastOpenFiles": [
+    "B_编程语言/Mermaid.md",
+    "Windows系统/命令.md",
+    "Z_电脑工具/Typora.md",
+    "Linux系统/Linux 基础及常用命令.md",
     "新建文本文档.txt",
     "B_编程语言/Git.md",
     "A_计算机基础/计算机网络.md",
     "A_计算机基础/数据结构与算法.md",
     "AI/大模型.md",
     "A_计算机基础/操作系统.md",
-    "B_编程语言/Mermaid.md",
     "FinanceNote/券商业务.md",
     "Al Brooks Price Action Theory/08 Candles,Setups and Signal Bars.md",
     "AI/claude code 使用.md",
-    "Z_电脑工具/Typora.md",
     "conflict-files-obsidian-git.md"
   ]
 }
