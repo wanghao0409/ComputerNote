@@ -222,12 +222,12 @@
       "bases:新建数据库": false
     }
   },
-  "active": "5db3d815a9b57a27",
+  "active": "f25cf2e1401902a1",
   "lastOpenFiles": [
     "Linux系统/功能学习.md",
     "Linux系统/Linux 基础及常用命令.md",
     "Linux系统/Shell.md",
-    "A_计算机基础/操作系统.md",
+    "A_ComputerBasicKnowledge/操作系统.md",
     "C_大数据/数据治理.md",
     "C_大数据/2. Hadoop&Hive.md",
     "C_大数据/1.2 SQL题库.md",
@@ -235,7 +235,7 @@
     "B_编程语言/Python.md",
     "B_编程语言/Git.md",
     "C_大数据/5. Kafka.md",
-    "A_计算机基础/数据结构与算法.md",
+    "A_ComputerBasicKnowledge/数据结构与算法.md",
     "B_编程语言/markdown.md",
     "训练.md",
     "FinanceNote/券商业务.md",
@@ -243,7 +243,7 @@
     "AI/大模型.md",
     "Windows系统/命令.md",
     "新建文本文档.txt",
-    "A_计算机基础/计算机网络.md",
+    "A_ComputerBasicKnowledge/计算机网络.md",
     "Al Brooks Price Action Theory/08 Candles,Setups and Signal Bars.md",
     "AI/claude code 使用.md",
     "conflict-files-obsidian-git.md"
