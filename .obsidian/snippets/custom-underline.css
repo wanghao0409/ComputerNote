@@ -2,7 +2,7 @@
 .markdown-rendered h1,.cm-header-1, .HyperMD-header-1 {
     border-bottom: 1px solid #d1c9c9;
     padding-bottom: 0.3em;
-    display: inline-block;   /* 添加这一行，让下划线只跟随文字宽度 */
+    /* display: inline-block;   添加这一行，让下划线只跟随文字宽度 */
 }
 
 /* 二级及以下标题：细下划线 */
@@ -13,5 +13,5 @@
 .markdown-rendered h6, .cm-header-6, .HyperMD-header-6 {
     border-bottom: 0.8px solid #d1c9c9;
     padding-bottom: 0.3em;
-    display: inline-block;   /* 添加这一行，让下划线只跟随文字宽度 */
+    /* display: inline-block;   添加这一行，让下划线只跟随文字宽度 */
 }
