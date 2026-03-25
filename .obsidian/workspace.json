@@ -1,51 +1,14 @@
 {
   "main": {
-    "id": "f0544fea8d3b1d60",
+    "id": "06fe4180514edc6d",
     "type": "split",
     "children": [
       {
-        "id": "d98a16e55d273485",
+        "id": "99c27ad7ed188549",
         "type": "tabs",
-        "dimension": 20.408163265306122,
         "children": [
           {
-            "id": "887d40d99233d3b1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "训练.md",
-                "followCursor": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "训练 的大纲"
-            }
-          }
-        ]
-      },
-      {
-        "id": "887d243eb08b7316",
-        "type": "tabs",
-        "dimension": 79.59183673469387,
-        "children": [
-          {
-            "id": "e5eee521a0674091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux系统/Shell.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shell"
-            }
-          },
-          {
-            "id": "5db3d815a9b57a27",
+            "id": "06e8533f705a8ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -57,6 +20,20 @@
               "icon": "lucide-file",
               "title": "训练"
             }
+          },
+          {
+            "id": "544438a007ddc1ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux系统/Shell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shell"
+            }
           }
         ],
         "currentTab": 1
@@ -65,28 +42,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f4deb145a2c68b0e",
+    "id": "4a4e8fbc5912166c",
     "type": "split",
     "children": [
       {
-        "id": "c8296250f133788c",
+        "id": "921e95e7eb12842f",
         "type": "tabs",
         "children": [
           {
-            "id": "f25cf2e1401902a1",
+            "id": "5357f2ff59ee7196",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
             }
           },
           {
-            "id": "5b58b4607fec1144",
+            "id": "526e6fab5592f122",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -103,7 +80,7 @@
             }
           },
           {
-            "id": "4da837a6d6a4a277",
+            "id": "5a3faa1122ea901d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -111,30 +88,59 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
+          },
+          {
+            "id": "31ee5dccd9619a40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Al Brooks Price Action Theory/15 Breakouts.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "15 Breakouts 的大纲"
+            }
+          },
+          {
+            "id": "8ae66341436c762f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Al Brooks Price Action Theory/17 Tight and Micro Channels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17 Tight and Micro Channels"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 300
   },
   "right": {
-    "id": "eda831aa6d58238a",
+    "id": "13e6e67488a982d0",
     "type": "split",
     "children": [
       {
-        "id": "abde24524c154cbc",
+        "id": "7639ba321775a29b",
         "type": "tabs",
         "children": [
           {
-            "id": "f8fc17e77b578886",
+            "id": "bcf049e4fa3fa8b3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A_计算机基础/计算机网络.md",
+                "file": "Git.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -142,25 +148,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "计算机网络 的反向链接列表"
+              "title": "Git 的反向链接列表"
             }
           },
           {
-            "id": "cc9437c97fbe6202",
+            "id": "770fa05894d72bb8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A_计算机基础/计算机网络.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "计算机网络 的出链列表"
+              "title": "Git 的出链列表"
             }
           },
           {
-            "id": "fc87ec7fd421d6d1",
+            "id": "f046805c93768de4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,7 +181,7 @@
             }
           },
           {
-            "id": "04d849c67e9ed184",
+            "id": "7a79c00f44e82e41",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -189,63 +195,74 @@
             }
           },
           {
-            "id": "66ebdc06e1c84c58",
+            "id": "bd7497086a5ef713",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "A_计算机基础/计算机网络.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "计算机网络 的大纲"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5db3d815a9b57a27",
+  "active": "544438a007ddc1ae",
   "lastOpenFiles": [
+    "C_大数据/3. Spark.md",
+    "C_大数据/5. Kafka.md",
+    "C_大数据/1.2 SQL题库.md",
+    "C_大数据/1.3 SQL执行计划和调优.md",
+    "Linux系统/Shell.md",
     "Linux系统/Linux 基础及常用命令.md",
     "Linux系统/功能学习.md",
-    "Linux系统/Shell.md",
-    "A_ComputerBasicKnowledge/操作系统.md",
-    "C_大数据/数据治理.md",
-    "C_大数据/2. Hadoop&Hive.md",
-    "C_大数据/1.2 SQL题库.md",
-    "B_编程语言/Mermaid.md",
-    "B_编程语言/Python.md",
     "B_编程语言/Git.md",
-    "C_大数据/5. Kafka.md",
-    "A_ComputerBasicKnowledge/数据结构与算法.md",
-    "B_编程语言/markdown.md",
-    "训练.md",
-    "FinanceNote/券商业务.md",
-    "Z_电脑工具/Typora.md",
-    "AI/大模型.md",
-    "Windows系统/命令.md",
-    "新建文本文档.txt",
     "A_ComputerBasicKnowledge/计算机网络.md",
-    "Al Brooks Price Action Theory/08 Candles,Setups and Signal Bars.md",
+    "A_ComputerBasicKnowledge/数据结构与算法.md",
+    "A_ComputerBasicKnowledge/操作系统.md",
+    "A_ComputerBasicKnowledge",
+    "AI/大模型.md",
+    "conflict-files-obsidian-git.md",
+    "B_编程语言/markdown.md",
+    "Al Brooks Price Action Theory/总结.md",
     "AI/claude code 使用.md",
-    "conflict-files-obsidian-git.md"
+    "AI",
+    "Al Brooks Price Action Theory/知乎思考.md",
+    "Al Brooks Price Action Theory/训练.md",
+    "Al Brooks Price Action Theory/30 Trader's Equation and Probability.md",
+    "Al Brooks Price Action Theory/15 Breakouts.md",
+    "FinanceNote/券商业务.md",
+    "FinanceNote",
+    "Z_电脑工具/Typora.md",
+    "Key.md",
+    "未命名.base",
+    "未命名 1.base",
+    "Al Brooks Price Action Theory/14 Trends.md",
+    "训练.md",
+    "Windows系统/命令.md",
+    "Z_电脑工具",
+    "Windows系统",
+    "Pasted image 20260301223017.png",
+    "Al Brooks Price Action Thores 1/9 Pullbacks and Bar Counting",
+    "Al Brooks Price Action Thores 1/8 Candles,Setups and Signal Bars",
+    "Al Brooks Price Action Thores 1/7",
+    "Al Brooks Price Action Thores/概览.canvas",
+    "Pasted image 20260301233139.png"
   ]
 }

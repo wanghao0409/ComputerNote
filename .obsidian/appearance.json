@@ -4,7 +4,7 @@
   "interfaceFontFamily": "微软雅黑",
   "monospaceFontFamily": "Consolas",
   "enabledCssSnippets": [
-    "custom-underline",
-    "Custom-Line-Height"
+    "Custom-Line-Height",
+    "custom-underline"
   ]
 }
