@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "大模型"
             }
-          },
-          {
-            "id": "dd722ad70f8641f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,10 +223,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd722ad70f8641f8",
+  "active": "544438a007ddc1ae",
   "lastOpenFiles": [
-    "AI/大模型.md",
     "conflict-files-obsidian-git.md",
+    "AI/大模型.md",
     "Math/概率与统计.md",
     "Al Brooks Price Action Theory/交易市场基本定义.md",
     "WindowsSystem/命令.md",
