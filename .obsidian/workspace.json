@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Al Brooks Price Action Theory/交易市场基本定义.md",
+                "file": "Math/概率与统计.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "交易市场基本定义 的大纲"
+              "title": "概率与统计 的大纲"
             }
           }
         ]
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Al Brooks Price Action Theory/交易市场基本定义.md",
+                "file": "Math/概率与统计.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "交易市场基本定义"
+              "title": "概率与统计"
             }
           }
         ],
@@ -224,10 +224,11 @@
   },
   "active": "5db3d815a9b57a27",
   "lastOpenFiles": [
-    "Al Brooks Price Action Theory/总结.md",
-    "Al Brooks Price Action Theory/交易市场基本定义.md",
-    "Al Brooks Price Action Theory/知乎思考.md",
     "Math/线性代数.md",
+    "Math/概率与统计.md",
+    "Al Brooks Price Action Theory/交易市场基本定义.md",
+    "Al Brooks Price Action Theory/总结.md",
+    "Al Brooks Price Action Theory/知乎思考.md",
     "LinuxSystem/Linux 基础及常用命令.md",
     "Math",
     "LinuxSystem/Shell.md",
@@ -250,7 +251,6 @@
     "新建文本文档.txt",
     "ComputerBasicKnowledge/计算机网络.md",
     "Al Brooks Price Action Theory/08 Candles,Setups and Signal Bars.md",
-    "AI/claude code 使用.md",
-    "conflict-files-obsidian-git.md"
+    "AI/claude code 使用.md"
   ]
 }
