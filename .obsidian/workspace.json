@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinuxSystem/Linux 基础及常用命令.md",
+                "file": "Math/线性代数.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux 基础及常用命令 的大纲"
+              "title": "线性代数 的大纲"
             }
           }
         ]
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinuxSystem/Linux 基础及常用命令.md",
-                "mode": "preview",
+                "file": "Math/线性代数.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux 基础及常用命令"
+              "title": "线性代数"
             }
           }
         ],
@@ -222,11 +222,13 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f25cf2e1401902a1",
+  "active": "5db3d815a9b57a27",
   "lastOpenFiles": [
+    "LinuxSystem/Linux 基础及常用命令.md",
+    "Math/线性代数.md",
+    "Math",
     "LinuxSystem/Shell.md",
     "训练.md",
-    "LinuxSystem/Linux 基础及常用命令.md",
     "LinuxSystem/功能学习.md",
     "ComputerBasicKnowledge/操作系统.md",
     "BigData/数据治理.md",
