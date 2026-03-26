@@ -144,6 +144,14 @@ graph LR
 
 ### 2.2 用户
 
+创建用户
+```bash
+# 创建用户并自动创建家目录
+sudo useradd -m username
+# 设置密码
+sudo passwd username
+```
+
 | **命令** | 选项  | **英文**      | **作用** |
 | ------ | --- | ----------- | ------ |
 | su     |     | switch user | 切换用户   |
