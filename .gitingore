@@ -1,0 +1,3 @@
+# #忽略 .obsidian 下的 workspace.json
+.obsidian/workspace.json
+
