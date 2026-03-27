@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/大模型.md",
+                "file": "Programming/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大模型"
+              "title": "Git"
             }
           }
         ],
@@ -225,8 +225,8 @@
   },
   "active": "544438a007ddc1ae",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "AI/大模型.md",
+    "conflict-files-obsidian-git.md",
     "Linux System/Linux 基础及常用命令.md",
     "Linux System/Shell.md",
     "Linux System/功能学习.md",
