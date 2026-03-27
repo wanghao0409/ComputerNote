@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 # 忽略 .obsidian 下的 workspace.json
 .obsidian/workspace.json
+=======
+# #忽略 .obsidian 下的 workspace.json
+.obsidian/workspace.json
+
+>>>>>>> e0264ae32bb867f632cf4095b07eacb018a64901
