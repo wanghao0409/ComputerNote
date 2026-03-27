@@ -263,6 +263,11 @@ grep -rin --color "你要找的内容" ./
 # 七. 网络通讯
 
 
+查看腾讯云公网 ip地址
+curl http://metadata.tencentyun.com/meta-data/public-ipv4
+
+
+
 # 八. 设备管理
 
 
