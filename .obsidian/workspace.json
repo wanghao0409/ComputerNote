@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Math/概率与统计.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "概率与统计 的大纲"
             }
           }
         ]
@@ -222,10 +222,10 @@
       "bases:新建数据库": false
     }
   },
-  "active": "f25cf2e1401902a1",
+  "active": "5db3d815a9b57a27",
   "lastOpenFiles": [
-    "Math/概率与统计.md",
     "conflict-files-obsidian-git.md",
+    "Math/概率与统计.md",
     "LinuxSystem/Shell.md",
     "AI/大模型.md",
     "LinuxSystem/Linux 基础及常用命令.md",
