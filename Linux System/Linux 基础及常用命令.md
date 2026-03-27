@@ -143,13 +143,17 @@ graph LR
 
 ### 2.2 用户
 
-创建用户
+
+#### 创建用户
+
 ```bash
 # 创建用户并自动创建家目录
 sudo useradd -m username
 # 设置密码
 sudo passwd username
 ```
+
+#### 切换用户
 
 | **命令** | 选项  | **英文**      | **作用** |
 | ------ | --- | ----------- | ------ |
@@ -257,6 +261,17 @@ grep -rin --color "你要找的内容" ./
 |---|---|---|---|
  
 # 七. 网络通讯
+
+
+#### 查看 /etc/os-release 或发行版特定文件
+
+```bash
+cat /etc/os-release   # **opencloudOS属于 RHEL/CentOS 生态**
+```
+
+查看腾讯云公网 ip地址
+curl http://metadata.tencentyun.com/meta-data/public-ipv4
+
 
 
 # 八. 设备管理

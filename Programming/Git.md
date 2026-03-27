@@ -81,7 +81,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 # Eg: 
 ssh-keygen -t ed25519 -C "398708416@qq.com"
 
-ssh-keygen -t rsa
+ssh-keygen -t rsa 
 
 cat ~/.ssh/id_rsa.pub
 ```
