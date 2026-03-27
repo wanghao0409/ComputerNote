@@ -266,7 +266,7 @@ grep -rin --color "你要找的内容" ./
 #### 查看 /etc/os-release 或发行版特定文件
 
 ```bash
-cat /etc/os-release
+cat /etc/os-release   # **opencloudOS属于 RHEL/CentOS 生态**
 ```
 
 查看腾讯云公网 ip地址
