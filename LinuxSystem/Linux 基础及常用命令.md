@@ -143,7 +143,7 @@ graph LR
 
 ### 2.2 用户
 
-创建用户
+#### 创建用户
 ```bash
 # 创建用户并自动创建家目录
 sudo useradd -m username
