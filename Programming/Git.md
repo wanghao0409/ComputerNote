@@ -154,3 +154,12 @@ git clean -fd
 
 
 
+
+
+```shell
+# 1. 强制从Git索引中移除该文件（不会删除本地文件）
+git rm --cached -f .obsidian/workspace.json
+
+# 2. 提交这次“移除跟踪”的变更
+git commit -m "停止跟踪workspace.json"
+```
