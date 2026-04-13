@@ -14,13 +14,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Al Brooks Price Action Theory/29 Reversals - Climaxes.md",
+                "file": "ProgrammingLanuage/Git.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "29 Reversals - Climaxes 的大纲"
+              "title": "Git 的大纲"
             }
           }
         ]
@@ -50,12 +50,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Al Brooks Price Action Theory/29 Reversals - Climaxes.md",
+                "file": "ProgrammingLanuage/Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29 Reversals - Climaxes"
+              "title": "Git"
             }
           }
         ],
@@ -222,35 +222,35 @@
       "bases:新建数据库": false
     }
   },
-  "active": "5db3d815a9b57a27",
+  "active": "f25cf2e1401902a1",
   "lastOpenFiles": [
+    "Math/概率与统计.md",
+    "Al Brooks Price Action Theory/18 Trading Ranges.md",
+    "BigData/数据治理.md",
     "Al Brooks Price Action Theory/基本定义.md",
+    "BigData/1.2 SQL题库.md",
+    "Al Brooks Price Action Theory/29 Reversals - Climaxes.md",
     "Al Brooks Price Action Theory/总结.md",
     "Linux System/Linux 基础及常用命令.md",
     "Linux System/功能学习.md",
     "BigData/1.3 SQL执行计划和调优.md",
     "BigData/2. Hadoop&Hive.md",
     "Linux System/Shell.md",
-    "Programming/Git.md",
+    "ProgrammingLanuage/Git.md",
     "WindowsSystem/命令.md",
     "AI/大模型.md",
-    "Programming/Mermaid.md",
+    "ProgrammingLanuage/Mermaid.md",
     "ComputerBasicKnowledge/计算机网络.md",
     "ComputerBasicKnowledge/操作系统.md",
     "Key.md",
-    "Programming/markdown.md",
-    "Programming/Python.md",
-    "Math/概率与统计.md",
+    "ProgrammingLanuage/markdown.md",
+    "ProgrammingLanuage/Python.md",
     "conflict-files-obsidian-git.md",
     "Math/线性代数.md",
     "Al Brooks Price Action Theory/知乎思考.md",
     "Math",
     "训练.md",
-    "BigData/数据治理.md",
-    "BigData/1.2 SQL题库.md",
     "BigData/5. Kafka.md",
-    "ComputerBasicKnowledge/数据结构与算法.md",
-    "FinanceNote/券商业务.md",
     "新建文本文档.txt"
   ]
 }
