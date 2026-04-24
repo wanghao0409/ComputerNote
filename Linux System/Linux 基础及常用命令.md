@@ -349,6 +349,7 @@ systemctl stop ccxt_trading
 | du     |     | disk usage | 查看磁盘文件使用情况 |
 |        |     |            |            |
 |        |     |            |            |
+du --max -depth=1 -ah
 
 |   |   |   |   |
 |---|---|---|---|
@@ -357,6 +358,7 @@ systemctl stop ccxt_trading
 
 |     |     |     |     |
 | --- | --- | --- | --- |
+|     |     |     |     |
 |     |     |     |     |
  
 # 七. 网络通讯
