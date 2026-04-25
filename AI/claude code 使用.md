@@ -7,3 +7,11 @@ https://www.zhihu.com/question/1988477212043793215/answer/2016147883347419602
 ```bash
 npm install -g @anthropic-ai/claude-code
 ```
+
+
+# skills
+
+## 创建自己的skill
+
+
+告诉Claude code创建一个
