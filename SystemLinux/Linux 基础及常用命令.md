@@ -340,6 +340,8 @@ systemctl stop ccxt_trading
 journalctl -f
 ```
 #### watch
+
+`watch` 命令用于**周期性执行指定命令**并**全屏显示输出结果**，非常适合实时监控命令输出变化。
 ```bash
   watch -n 1 "sudo journalctl -u ccxt_trading --since '1 minute ago' -n 14 --no-pager"
 ```
