@@ -346,7 +346,14 @@ journalctl -f
   watch -n 1 "sudo journalctl -u ccxt_trading --since '1 minute ago' -n 14 --no-pager"
 ```
 
+### 4.内存管理
 
+#### free
+free -h
+
+**Swap**（交换空间）可以理解为**当物理内存（RAM）不够用时，系统用来临时存放数据的磁盘空间**。
+
+它的核心作用是**扩展可用内存**，可以看作是“慢速的备用内存”。
 
 # 四. 软件包管理
 
