@@ -15,3 +15,5 @@ npm install -g @anthropic-ai/claude-code
 
 
 告诉Claude code创建一个
+
+# Plan模式
