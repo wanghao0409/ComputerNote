@@ -1,0 +1,10 @@
+{
+	"id": "global-markdown-encrypt",
+	"name": "Global Markdown Encryption",
+	"version": "0.0.7",
+	"minAppVersion": "0.15.0",
+	"description": "In-memory AES256-GCM Markdown Encryption",
+	"author": "shlemiel",
+	"authorUrl": "https://github.com/shlemiel",
+	"isDesktopOnly": false
+}
