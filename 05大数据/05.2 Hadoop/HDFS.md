@@ -106,3 +106,4 @@ HDFS提供了类似Linux的Shell命令（通过 `hdfs dfs` 或 `hadoop fs` �
 | `-cat`   | 查看文件内容         | `hdfs dfs -cat /file.txt`               |
 | `-rm`    | 删除文件或目录        | `hdfs dfs -rm -r /tmp/old`              |
 | `-du -h` | 查看目录大小         | `hdfs dfs -du -h /user`                 |
+1. **可视化界面**：记住默认端口 `9870`（NameNode Web UI），在这里你能直观看到集群容量、DataNode状态和块信息。
