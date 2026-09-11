@@ -48,6 +48,7 @@ HDFS集群由**三个核心角色**组成：
   - **SecondaryNameNode:**备用名称节点**。
 	  - **并非热备！** 它定期合并NameNode的编辑日志（Edits）和镜像文件（FsImage），防止NameNode启动时加载过慢。注意：如果NameNode宕机，它并不能直接顶替（除非配置HA）。
 
+## 3.1 主备架构
 > **高可用（HA）架构补充**：在生产环境中，现在通常配置 **Active/Standby NameNode**（使用ZKFC协调）。当Active宕机，Standby自动接管，实现秒级故障切换。
 
 
