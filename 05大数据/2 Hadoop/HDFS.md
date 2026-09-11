@@ -1,13 +1,16 @@
-
+  
 
 # 1 Hadoop
 
-**Hadoop** 是一个开源的<u>**分布式计算框架**</u>，专门用于存储和处理大规模数据集。它最初由 Doug Cutting 和 Mike Cafarella 开发，灵感来源于 Google 的三篇经典论文（GFS、MapReduce 和 Bigtable）。Hadoop 的核心设计目标是能够以低成本、高可靠性的方式处理海量数据。
+**Hadoop** 是一个开源的<u>**分布式计算框架**</u>，专门用于存储和处理大规模数据集。
+它最初由 Doug Cutting 和 Mike Cafarella 开发，灵感来源于 Google 的三篇经典论文（GFS、MapReduce 和 Bigtable）。
+Hadoop 的核心设计目标是能够以低成本、高可靠性的方式处理海量数据。
     
-# 2 **HDFS (Hadoop Distributed File System)**
+# 2 **HDFS **
+(Hadoop Distributed File System)
 
 - **功能**
-	- HDFS 是 Hadoop 的分布式文件系统，<u>**用于存储大规模数据**</u>。
+	- HDFS 是 Hadoop 的**分布式文件系统**，用于存储大规模数据。
 
 - **优点**:
 
@@ -17,7 +20,6 @@
   - **构建成本低、安全可靠**
 
 - **缺点**：
-
   - 不适合低延迟数据访问
   - 不适合大量小文件存储（远远小于128M)
   - 不支持并发写入
