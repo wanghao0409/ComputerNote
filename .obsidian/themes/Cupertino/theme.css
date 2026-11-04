@@ -7313,3 +7313,98 @@ body.mod-linux:not(.is-android):not(.adaptive-mode-off).theme-dark {
   --color-purple: #9141ac;
   --color-pink: #d561aa;
 }
+
+
+/* ==========================================================================
+   Typora-Vue code styling, ported into Cupertino
+   --------------------------------------------------------------------------
+   Source: "Typora-Vue" Obsidian theme (ZekunC/Obsidian-Typora-Vue-Theme),
+   which itself follows blinkfox/typora-vue-theme.
+
+   The Typora-Vue theme ships no syntax palette of its own - it inherits
+   Obsidian's built-in one. The values below are that palette resolved to
+   hex, so they stay stable regardless of Cupertino's own colour system.
+
+   Everything outside of code is left untouched - this block only speaks
+   about code blocks and inline code.
+   ========================================================================== */
+
+.theme-light {
+  /* syntax palette - Obsidian default, as rendered by Typora-Vue */
+  --code-normal: #34495e;
+  --code-comment: #ababab;
+  --code-function: #e0ac00;
+  --code-important: #ec7500;
+  --code-keyword: #d53984;
+  --code-operator: #e93147;
+  --code-property: #00bfbc;
+  --code-punctuation: #5c5c5c;
+  --code-string: #08b94e;
+  --code-tag: #e93147;
+  --code-value: #7852ee;
+
+  /* code block surface */
+  --code-background: #f8f8f8;
+  --code-size: var(--font-smaller);
+  --code-radius: 4px;
+  --code-border-width: 0px;
+
+  /* Typora-Vue specifics */
+  --cus-inline-code-text: #e96900;
+  --cus-code-block-border: #f4f4f4;
+}
+
+.theme-dark {
+  --code-normal: #eeeeee;
+  --code-comment: #666666;
+  --code-function: #e0de71;
+  --code-important: #e9973f;
+  --code-keyword: #fa99cd;
+  --code-operator: #fb464c;
+  --code-property: #53dfdd;
+  --code-punctuation: #b3b3b3;
+  --code-string: #44cf6e;
+  --code-tag: #fb464c;
+  --code-value: #a882ff;
+
+  --code-background: #1a1a1a;
+  --code-size: var(--font-smaller);
+  --code-radius: 4px;
+  --code-border-width: 0px;
+
+  --cus-inline-code-text: #f3b37f;
+  --cus-code-block-border: #1c1c1c;
+}
+
+/* inline code - Typora-Vue's signature orange */
+.cm-s-obsidian span.cm-inline-code {
+  color: var(--cus-inline-code-text);
+}
+.markdown-rendered code:not(pre code) {
+  color: var(--cus-inline-code-text);
+}
+/* inline code nested in a fenced block keeps the normal code colour */
+.cm-s-obsidian .HyperMD-codeblock span.cm-inline-code {
+  color: var(--code-normal);
+}
+
+/* hairline frame around code blocks, as in Typora-Vue */
+.markdown-rendered pre {
+  border: 1px solid var(--cus-code-block-border);
+}
+.cm-s-obsidian div.HyperMD-codeblock-begin-bg {
+  border-top: 1px solid var(--cus-code-block-border);
+}
+.cm-s-obsidian div.HyperMD-codeblock-end-bg {
+  border-bottom: 1px solid var(--cus-code-block-border);
+}
+.markdown-source-view.mod-cm6 .cm-line.HyperMD-codeblock {
+  border-left: 1px solid var(--cus-code-block-border);
+  border-right: 1px solid var(--cus-code-block-border);
+}
+
+/* copy button hover, tinted with the active accent */
+.markdown-source-view.mod-cm6 .code-block-flair:hover,
+.markdown-rendered button.copy-code-button:hover {
+  background-color: hsla(var(--interactive-accent-hsl), 0.1);
+}
