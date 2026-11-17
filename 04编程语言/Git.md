@@ -49,9 +49,9 @@ git checkout dev # 切换至某个分支
 ```
 
 
-1
 
-## 1.2 二. 从远处仓库开始
+
+## 1.2 二. 从拉取远处仓库开始
 
 ```shell
 git clone #复制现有仓库（从远程下载）
@@ -67,8 +67,12 @@ git clone git@github.com:wanghao0409/Language.git
 
 ```
 
+## 1.3 配置
 
-
+```shell
+git config --global user.name "你的用户名"
+git config --global user.email "你的邮箱@example.com"
+```
 
 
 # 2 SSH 认证
